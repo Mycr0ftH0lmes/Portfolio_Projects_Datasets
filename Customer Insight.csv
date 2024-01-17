@@ -1,0 +1,1030 @@
+Customer ID,Age,Gender,Location, Income ,Marital Status,Purchase Frequency (Past 6 Months), Average Order Value ,Preferred Product Categories,Last Purchase Date,Return Rate, Customer Lifetime Value (CLV) , Average Star Rating ,NPS Score
+C000019,44,Male, Memphis,"$230,000",Single,2,129000,Locket,21-07-23,0,1032000,5.4,59.88
+C000080,30,Male, Detroit,"$100,000",Single,1,82000,Necklace,09-09-23,0,410000,6.4,70.25
+C000350,31,Female, St Louis,"$280,000",Married,5,112000,Bracelet,21-06-23,0,2240000,3.4,41.15
+C000382,29,Female, Jacksonville,"$160,000",Married,3,46000,Pendant,31-08-23,0.09,276000,7.7,80.76
+C000418,21,Male, Nashville,"$160,000",Single,1,6000,Pendant,29-05-23,0,6000,5.7,65.34
+C000499,35,Male, Virginia Beach,"$80,000",Married,1,20000,Locket,05-12-23,0,100000,5.5,63.78
+C000514,28,Female, Long Beach,"$240,000",Married,2,125000,Bracelet,22-05-23,0,1000000,4.9,56.05
+C000535,49,Female, Los Angeles,"$200,000",Married,3,44000,Locket,28-04-23,0.03,264000,5.2,60.49
+C000538,44,Male, Austin,"$270,000",Married,3,157000,Pendant,19-06-23,0,2355000,4.4,48.31
+C000800,30,Male, Memphis,"$90,000",Married,2,1126,Ring,07-09-23,0,11260,5.6,64.77
+C000805,33,Female, Norfolk,"$290,000",Single,7,163000,Pendant,14-11-23,0,4564000,3,31.3
+C000972,31,Male, Las Vegas,"$50,000",Single,1,19000,Armlet,22-06-23,0,57000,5.9,66.65
+C001056,34,Female, Portland,"$160,000",Married,2,51000,Bracelet,27-05-23,0,102000,5.1,60.55
+C001342,19,Male, Mesa,"$90,000",Married,2,3327,Necklace,20-11-23,0,13308,6.7,73.68
+C001408,34,Female, Riverside,"$220,000",Single,5,102000,Jewel,04-11-23,0,2040000,2.9,37.51
+C001467,19,Male, Fort Worth,"$220,000",Single,2,211000,Necklace,29-04-23,0.02,2110000,4.9,53.47
+C001486,36,Female, Miami,"$220,000",Married,3,160000,Earrings,15-07-23,0,480000,4.6,55.33
+C001532,49,Male, Omaha,"$100,000",Single,1,69000,Ring,11-04-23,0,138000,6.9,74.91
+C001605,58,Male, Houston,"$160,000",Single,1,5000,Necklace,19-11-23,0,20000,7.1,76.95
+C001855,42,Male, Nashville,"$210,000",Single,4,125000,Ring,04-10-23,0,1000000,3.3,43.87
+C001870,34,Male, Denver,"$290,000",Single,2,3479,Bracelet,26-07-23,0,13916,5.7,65.85
+C001882,21,Male, Greensboro,"$160,000",Married,1,86000,Armlet,21-06-23,0,258000,5.8,65.29
+C001883,57,Female, Long Beach,"$290,000",Married,7,48000,Earrings,29-04-23,0,672000,2.5,37.85
+C001886,50,Female, Fort Worth,"$300,000",Married,7,13000,Necklace,20-07-23,0,91000,3.5,47.65
+C002223,36,Male, New York,"$110,000",Married,2,61000,Pendant,15-08-23,0,366000,5.7,64.93
+C002281,51,Female, Portland,"$250,000",Single,3,129000,Pendant,29-07-23,0,1548000,4.8,54.21
+C002398,48,Male, Newark,"$190,000",Married,4,118000,Jewel,16-04-23,0,944000,3.4,44.73
+C002801,27,Female, Chicago,"$180,000",Married,3,146000,Jewel,03-12-23,0,2190000,3.6,42.52
+C003031,42,Male, Raleigh,"$50,000",Single,1,4000,Earrings,28-05-23,0,4000,5.7,65.3
+C003070,57,Male, Detroit,"$300,000",Single,6,269000,Pendant,24-05-23,0,1614000,1.4,26.33
+C003165,40,Female, Seattle,"$270,000",Married,5,127000,Earrings,10-11-23,0,3175000,4.3,45.15
+C003220,24,Female, Wichita,"$100,000",Single,1,17000,Earrings,10-12-23,0,34000,6.8,74.23
+C003353,40,Female, Greensboro,"$250,000",Single,4,96000,Armlet,13-03-23,0,768000,3.3,43.91
+C003439,49,Male, Atlanta,"$200,000",Married,5,149000,Necklace,20-03-23,0.09,745000,4.7,55.21
+C003539,24,Male, Boston,"$110,000",Single,2,50000,Jewel,12-08-23,0.01,200000,7,75.34
+C003888,54,Male, Seattle,"$50,000",Married,1,8000,Armlet,30-06-23,0,32000,5.9,67.38
+C004118,56,Female, Cincinnati,"$300,000",Single,3,272000,Armlet,16-06-23,0,816000,3.9,48.79
+C004312,58,Male, Raleigh,"$130,000",Married,1,39000,Ring,11-10-23,0,156000,7,75.59
+C004337,42,Male, Raleigh,"$120,000",Single,1,95000,Ring,25-07-23,0,285000,6,67.39
+C004551,51,Female, Fresno,"$90,000",Married,2,43000,Bracelet,08-08-23,0,258000,5.7,65.16
+C004598,34,Male, Raleigh,"$180,000",Married,1,131000,Armlet,18-11-23,0,262000,6.9,74.82
+C004696,56,Female, San Francisco,"$80,000",Single,2,2000,Pendant,11-03-23,0.01,16000,6.8,74.56
+C004728,53,Female, Minneapolis,"$180,000",Single,2,154000,Necklace,14-05-23,0.04,616000,5.7,63.98
+C004810,54,Female, Boston,"$110,000",Married,1,72000,Earrings,06-01-23,0.09,144000,7.9,82.43
+C004815,27,Female, Albuquerque,"$90,000",Married,2,48000,Pendant,20-05-23,0,480000,5.1,59.07
+C004959,21,Male, Colorado Springs,"$170,000",Single,2,25000,Earrings,07-07-23,0,50000,5.5,64.01
+C005107,42,Female, Milwaukee,"$300,000",Married,2,218000,Ring,21-04-23,0,436000,4.4,53.58
+C005125,36,Male, Phoenix,"$100,000",Married,2,62000,Jewel,23-09-23,0,372000,6.1,67.5
+C005177,43,Female, Oklahoma City,"$100,000",Single,1,71000,Bracelet,11-03-23,0,71000,6.9,75.01
+C005225,35,Male, Miami,"$60,000",Single,1,20000,Necklace,06-09-23,0,100000,5.7,65.65
+C005454,45,Male, Fort Worth,"$90,000",Married,2,41000,Bracelet,16-06-23,0,328000,5.3,61.46
+C005644,57,Male, Fresno,"$260,000",Married,1,199000,Necklace,09-01-23,0.03,995000,7,72.77
+C005657,45,Female, Kansas City,"$120,000",Married,3,90000,Ring,10-11-23,0,1080000,5.6,61.77
+C005736,29,Female, Louisville,"$200,000",Married,4,105000,Earrings,03-10-23,0,420000,3.2,44.32
+C005757,59,Male, Nashville,"$240,000",Married,6,238000,Locket,08-08-23,0,4284000,2.3,25.78
+C005941,53,Female, Tampa,"$260,000",Married,2,2441,Earrings,12-12-23,0,4882,6.9,75.2
+C005947,52,Male, Fort Worth,"$130,000",Single,2,9000,Earrings,17-06-23,0,90000,5.4,62.9
+C006274,55,Female, Tucson,"$90,000",Married,1,47000,Necklace,31-03-23,0,141000,5.1,60.56
+C006655,46,Male, Wichita,"$50,000",Single,1,6000,Pendant,18-03-23,0,18000,5.1,60.49
+C006805,41,Female, Raleigh,"$230,000",Single,4,1141,Necklace,22-12-23,0,13692,6.2,69.18
+C006816,34,Female, Philadelphia,"$290,000",Single,3,246000,Locket,30-11-23,0,1476000,5.4,58.91
+C006949,33,Male, Oklahoma City,"$280,000",Married,7,63000,Locket,30-08-23,0.01,882000,3.6,46.34
+C006990,25,Male, Fresno,"$60,000",Single,1,6000,Necklace,15-10-23,0,6000,6.8,74.63
+C007020,30,Male, Sacramento,"$220,000",Single,2,117000,Locket,29-07-23,0.03,1170000,6.2,66.28
+C007038,55,Female, Sacramento,"$300,000",Single,1,82000,Jewel,13-08-23,0,410000,6.2,68.44
+C007040,37,Female, Omaha,"$300,000",Married,2,186000,Armlet,09-06-23,0,1860000,5.6,59.42
+C007105,45,Female, Denver,"$260,000",Married,1,258000,Armlet,24-10-23,0,774000,6.6,70.31
+C007208,55,Male, Tucson,"$240,000",Married,4,20000,Pendant,05-06-23,0,80000,4.1,52.78
+C007248,50,Male, Orlando,"$90,000",Single,2,71000,Jewel,12-11-23,0,426000,6.7,72.44
+C007286,41,Male, Raleigh,"$60,000",Married,1,29000,Earrings,16-04-23,0,116000,5.3,61.9
+C007487,53,Male, Tulsa,"$290,000",Married,4,241000,Necklace,09-02-23,0,3856000,3.9,40.36
+C007658,52,Male, Columbus,"$170,000",Single,1,113000,Jewel,14-07-23,0,226000,5.9,66.62
+C007864,46,Male, San Antonio,"$60,000",Married,1,44000,Locket,23-08-23,0,132000,6.3,70.32
+C008115,27,Female, Memphis,"$60,000",Married,1,2686,Armlet,23-04-23,0,2686,5.4,62.97
+C008210,25,Female, Philadelphia,"$180,000",Single,2,141000,Bracelet,22-11-23,0,1128000,6.4,67.64
+C008215,35,Male, Fort Worth,"$280,000",Single,3,65000,Necklace,19-03-23,0,390000,4,50.78
+C008248,33,Female, Riverside,"$230,000",Single,3,222000,Ring,21-04-23,0,1998000,3.6,43.28
+C008364,21,Male, San Antonio,"$210,000",Married,2,2825,Locket,10-01-23,0.05,22600,7.5,80.32
+C008561,20,Male, San Diego,"$80,000",Married,2,31000,Necklace,13-04-23,0,62000,4.8,58.16
+C008677,41,Male, Wichita,"$230,000",Married,2,160000,Necklace,14-09-23,0.03,960000,6.5,69.1
+C008874,38,Female, Indianapolis,"$60,000",Single,1,56000,Pendant,04-01-23,0,280000,5.1,60.13
+C009010,43,Male, Tucson,"$70,000",Married,1,12000,Necklace,11-04-23,0.02,48000,7.5,79.79
+C009077,60,Male, Philadelphia,"$200,000",Married,2,79000,Earrings,30-11-23,0,632000,6.6,70.94
+C009141,18,Female, Albuquerque,"$130,000",Single,1,24000,Ring,24-06-23,0,48000,5.9,66.76
+C009375,22,Female, Sacramento,"$270,000",Single,5,178000,Bracelet,17-08-23,0,3560000,3.5,37.61
+C009481,27,Male, Albuquerque,"$170,000",Single,3,145000,Armlet,05-01-23,0,435000,4,50.92
+C009665,49,Male, Raleigh,"$60,000",Married,1,45000,Necklace,28-09-23,0,45000,6.6,72.96
+C009724,60,Male, Long Beach,"$170,000",Married,1,125000,Ring,08-02-23,0,625000,6.1,66.62
+C009756,44,Male, Raleigh,"$240,000",Single,5,15000,Armlet,06-07-23,0,225000,4,51.23
+C009790,53,Male, Newark,"$100,000",Married,1,20000,Armlet,26-11-23,0,60000,7.2,77.14
+C009813,36,Female, Atlanta,"$170,000",Single,4,2887,Earrings,16-11-23,0,34644,5.8,66.63
+C010098,39,Female, Wichita,"$120,000",Married,1,115000,Bracelet,06-11-23,0,575000,5.6,63.4
+C010167,19,Male, Austin,"$80,000",Single,2,43000,Locket,27-04-23,0,86000,4.9,58.77
+C010222,30,Female, Tampa,"$240,000",Married,2,129000,Ring,27-09-23,0.07,258000,7.7,80.65
+C010348,28,Male, Dallas,"$170,000",Single,4,136000,Ring,07-11-23,0,2176000,4.1,46.18
+C010361,60,Male, Milwaukee,"$280,000",Single,7,264000,Locket,19-11-23,0,3696000,2.1,26.47
+C010662,53,Female, Tulsa,"$210,000",Married,3,50000,Bracelet,17-06-23,0,150000,4.8,57.97
+C010861,18,Male, Riverside,"$50,000",Single,1,42000,Necklace,12-06-23,0,126000,7.2,77.38
+C010939,22,Male, Orlando,"$290,000",Single,1,213000,Pendant,05-01-23,0.02,1065000,5.7,62.19
+C010957,42,Male, Phoenix,"$120,000",Single,2,6000,Earrings,31-07-23,0,36000,5.8,66.07
+C011159,18,Female, Cincinnati,"$200,000",Married,2,100000,Armlet,07-07-23,0,200000,5.3,61.96
+C011278,32,Male, Pittsburgh,"$270,000",Married,5,134000,Earrings,20-12-23,0,2010000,4.8,52.79
+C011473,50,Female, Austin,"$220,000",Single,2,174000,Armlet,08-04-23,0,1740000,5.4,57.82
+C011586,45,Male, Minneapolis,"$90,000",Single,2,70000,Earrings,16-11-23,0,280000,6.5,71.21
+C011663,27,Male, Houston,"$210,000",Married,2,170000,Jewel,27-09-23,0,1360000,5.8,62.6
+C011728,19,Female, El Paso,"$300,000",Single,7,174000,Jewel,20-12-23,0,6090000,3.2,28.51
+C011999,19,Female, New York,"$140,000",Married,1,110000,Bracelet,03-09-23,0,220000,4.9,58.18
+C012175,49,Male, Indianapolis,"$80,000",Married,1,582,Necklace,29-05-23,0,2910,5.7,65.4
+C012246,24,Female, Charlotte,"$200,000",Married,4,143000,Bracelet,16-05-23,0,1716000,3.5,43.44
+C012300,37,Female, Houston,"$280,000",Married,5,194000,Bracelet,09-06-23,0,970000,3.5,45.5
+C012375,25,Male, Oklahoma City,"$280,000",Married,5,85000,Necklace,05-04-23,0,850000,3.2,43.38
+C012462,18,Male, Nashville,"$210,000",Single,2,92000,Necklace,17-08-23,0,368000,5.7,64.39
+C012481,33,Male, Oklahoma City,"$280,000",Married,2,29000,Jewel,30-04-23,0,116000,4.9,59.19
+C012667,34,Male, Virginia Beach,"$260,000",Married,2,103000,Pendant,20-04-23,0,618000,4.7,55.48
+C012772,47,Female, Columbus,"$60,000",Single,1,770,Jewel,20-09-23,0,2310,6.6,73.03
+C013035,38,Male, Riverside,"$190,000",Married,4,88000,Armlet,08-06-23,0,1056000,4.5,53.2
+C013086,24,Female, Mesa,"$190,000",Married,2,145000,Necklace,15-12-23,0,580000,6.5,70.66
+C013091,50,Male, Charlotte,"$200,000",Single,2,135000,Necklace,25-03-23,0.08,1080000,6.4,67.72
+C013092,30,Male, Phoenix,"$250,000",Single,1,1644,Necklace,12-10-23,0,3288,7.3,78.43
+C013153,58,Female, Houston,"$160,000",Married,1,85000,Necklace,20-03-23,0.03,255000,5.7,65.09
+C013331,28,Male, Houston,"$160,000",Single,2,90000,Locket,16-03-23,0,360000,4.4,54.16
+C013358,40,Female, Fort Worth,"$250,000",Married,5,49000,Ring,08-01-23,0,1225000,4.2,50.21
+C013518,55,Male, Norfolk,"$100,000",Married,1,28000,Ring,22-07-23,0,112000,6.1,68.41
+C013704,38,Female, San Antonio,"$270,000",Married,2,20000,Necklace,29-07-23,0,40000,5.7,65.62
+C013765,24,Male, Minneapolis,"$290,000",Married,5,114000,Earrings,18-07-23,0,570000,3.7,47.63
+C014004,53,Male, Wichita,"$100,000",Single,1,9000,Necklace,04-04-23,0,36000,5.2,61.54
+C014316,21,Male, Orlando,"$290,000",Married,3,249000,Ring,15-03-23,0,3735000,3.2,34.95
+C014473,57,Female, Fresno,"$300,000",Single,1,213000,Armlet,09-02-23,0.01,1065000,6.4,68.48
+C014709,21,Male, Fresno,"$270,000",Married,4,115000,Bracelet,22-05-23,0,1380000,3.7,46.02
+C014777,24,Female, San Antonio,"$140,000",Married,3,133000,Necklace,19-12-23,0,798000,6,65.79
+C014856,49,Female, Charlotte,"$50,000",Single,1,23000,Locket,13-09-23,0.02,23000,7,76.26
+C014950,49,Female, Philadelphia,"$120,000",Married,1,34000,Armlet,30-12-23,0,34000,7.4,79.33
+C015059,25,Male, Minneapolis,"$60,000",Married,1,48000,Necklace,26-11-23,0,48000,7.1,76.87
+C015163,39,Male, San Antonio,"$90,000",Single,2,71000,Necklace,08-06-23,0,426000,5.6,63.94
+C015302,48,Male, Columbus,"$130,000",Married,3,103000,Ring,06-06-23,0,309000,4.5,55.06
+C015348,41,Female, Newark,"$220,000",Married,1,11000,Armlet,28-04-23,0,44000,5.4,63.1
+C015365,50,Female, Philadelphia,"$160,000",Single,3,57000,Ring,14-08-23,0,171000,5.3,61.56
+C015414,49,Male, San Antonio,"$270,000",Single,6,78000,Bracelet,23-04-23,0,936000,2.7,38.6
+C015419,50,Female, Boston,"$250,000",Single,3,8000,Bracelet,11-11-23,0,96000,6.2,69.32
+C015456,22,Female, Sacramento,"$130,000",Married,3,72000,Locket,08-02-23,0,432000,5.1,59.52
+C015463,22,Male, Fresno,"$180,000",Single,4,71000,Earrings,10-05-23,0,852000,5.1,58.53
+C015582,36,Male, Los Angeles,"$50,000",Single,1,16000,Locket,17-10-23,0.07,64000,8.6,88.49
+C015586,44,Male, Detroit,"$190,000",Single,1,22000,Necklace,03-11-23,0,88000,5,59.64
+C015839,35,Female, Albuquerque,"$160,000",Married,2,29000,Earrings,17-11-23,0,58000,6.6,72.8
+C015914,43,Female, El Paso,"$270,000",Married,6,235000,Ring,13-05-23,0,2820000,1.6,24.35
+C015997,30,Male, San Antonio,"$50,000",Single,1,38000,Earrings,05-08-23,0.06,76000,7,75.38
+C016046,54,Female, Portland,"$70,000",Married,1,1000,Jewel,07-02-23,0,2000,6,67.68
+C016175,25,Male, San Jose,"$300,000",Single,4,299000,Bracelet,21-05-23,0,1196000,2.7,38.51
+C016244,38,Female, Oklahoma City,"$240,000",Married,5,89000,Jewel,09-06-23,0.1,445000,6.7,72.68
+C016286,51,Male, San Jose,"$150,000",Married,2,72000,Necklace,10-07-23,0,144000,6.2,68.88
+C016378,24,Female, Dallas,"$110,000",Single,2,8000,Ring,14-04-23,0,32000,4.9,58.81
+C016505,18,Female, Fort Worth,"$290,000",Married,4,4267,Bracelet,21-10-23,0,85340,5.6,64.69
+C016649,47,Female, St Louis,"$270,000",Single,1,118000,Jewel,12-02-23,0,354000,7.1,75.64
+C016660,54,Female, Milwaukee,"$170,000",Single,4,72000,Bracelet,13-11-23,0,1440000,5.4,59.41
+C016739,22,Female, Jacksonville,"$190,000",Single,1,167000,Locket,08-11-23,0,501000,6.1,67.13
+C016896,42,Male, Orlando,"$140,000",Single,1,82000,Jewel,04-10-23,0,246000,5.2,60.55
+C016987,42,Male, Cincinnati,"$180,000",Married,1,63000,Ring,05-04-23,0,189000,5.4,62.52
+C016999,32,Male, San Francisco,"$140,000",Married,2,56000,Locket,10-07-23,0,336000,6.2,68.67
+C017086,44,Female, Atlanta,"$230,000",Married,5,31000,Jewel,31-05-23,0,620000,3.8,48.77
+C017091,21,Male, Louisville,"$180,000",Single,1,115000,Earrings,14-03-23,0.02,460000,5.4,61.77
+C017206,42,Female, Wichita,"$110,000",Single,2,84000,Armlet,19-09-23,0,504000,6,66.38
+C017228,57,Female, St Louis,"$160,000",Married,2,120000,Ring,05-07-23,0.08,480000,6.8,72.64
+C017245,29,Male, Oklahoma City,"$200,000",Married,2,3634,Armlet,22-08-23,0,36340,6,67.59
+C017460,21,Male, Long Beach,"$160,000",Single,2,139000,Earrings,20-04-23,0,1112000,4.6,53.28
+C017491,18,Female, Minneapolis,"$270,000",Married,2,8000,Armlet,14-10-23,0,32000,6.4,71.05
+C017543,20,Male, San Antonio,"$70,000",Single,1,67000,Bracelet,18-08-23,0,268000,6.3,69.34
+C017705,34,Male, Dallas,"$50,000",Single,1,5000,Pendant,08-12-23,0,25000,6.3,70.31
+C017715,28,Female, Mesa,"$80,000",Married,2,2204,Necklace,22-08-23,0,13224,6,67.68
+C017794,29,Female, Dallas,"$150,000",Married,2,89000,Armlet,27-06-23,0,178000,5.3,61.59
+C017928,37,Male, New York,"$110,000",Single,2,16000,Pendant,18-08-23,0,160000,5.9,66.7
+C017998,39,Male, Memphis,"$90,000",Single,2,69000,Locket,11-09-23,0.01,552000,6.7,71.98
+C018208,60,Male, Charlotte,"$160,000",Married,1,21000,Armlet,10-07-23,0,42000,6.7,73.83
+C018287,19,Male, Tulsa,"$50,000",Married,1,43000,Ring,25-07-23,0,129000,6.1,68.4
+C018342,20,Male, San Antonio,"$260,000",Single,2,107000,Bracelet,24-11-23,0,856000,6.5,69.29
+C018365,45,Female, Boston,"$180,000",Single,2,123000,Locket,30-07-23,0,246000,5.4,62.87
+C018447,40,Male, Miami,"$220,000",Married,2,210000,Pendant,06-08-23,0,1260000,4.8,54.6
+C018453,19,Female, Detroit,"$120,000",Married,2,10000,Earrings,07-06-23,0,100000,5.6,64.12
+C018454,18,Female, Raleigh,"$60,000",Married,1,16000,Necklace,15-07-23,0.04,48000,7,76.25
+C018494,41,Male, San Antonio,"$180,000",Married,4,39000,Necklace,09-01-23,0.01,468000,5.3,60.74
+C018513,47,Male, Los Angeles,"$190,000",Married,2,12000,Pendant,16-03-23,0,120000,4.6,56.53
+C018554,35,Male, Dallas,"$190,000",Single,1,34000,Armlet,13-09-23,0,34000,6.5,72.11
+C018580,32,Male, Memphis,"$220,000",Married,3,171000,Earrings,13-07-23,0,513000,4.5,54.74
+C018701,45,Male, Omaha,"$240,000",Married,1,166000,Armlet,12-12-23,0,830000,7.1,74.42
+C018803,29,Male, Detroit,"$150,000",Single,3,3878,Armlet,07-04-23,0,46536,5.1,60.9
+C018806,57,Female, Louisville,"$220,000",Single,5,73000,Necklace,05-10-23,0,730000,3.4,44.77
+C018813,31,Male, Kansas City,"$150,000",Single,1,58000,Bracelet,28-07-23,0,116000,6.1,68.47
+C018889,53,Female, Albuquerque,"$50,000",Married,1,42000,Necklace,13-04-23,0,126000,5.2,61.53
+C018932,37,Male, Norfolk,"$290,000",Married,3,206000,Earrings,01-02-24,0,1854000,5.8,61.34
+C018962,22,Female, Columbus,"$240,000",Single,2,154000,Pendant,30-12-23,0,616000,6.6,71.37
+C018997,19,Male, Minneapolis,"$150,000",Married,2,130000,Armlet,16-10-23,0,260000,6.1,67.89
+C019078,23,Male, San Francisco,"$90,000",Single,2,16000,Necklace,28-11-23,0.05,128000,8,83.61
+C019486,41,Male, St Louis,"$60,000",Married,1,5000,Jewel,23-04-23,0,5000,5.4,62.94
+C019579,55,Male, Riverside,"$300,000",Married,4,152000,Necklace,17-06-23,0,2432000,3.8,43.14
+C019795,18,Female, Minneapolis,"$60,000",Married,1,49000,Earrings,27-09-23,0,98000,6.6,72.7
+C019949,46,Female, Atlanta,"$160,000",Married,4,131000,Necklace,10-03-23,0,2096000,4.8,52.24
+C019984,50,Female, Norfolk,"$120,000",Single,1,60000,Locket,17-09-23,0,300000,6.5,71.33
+C020023,32,Male, Los Angeles,"$50,000",Married,1,20000,Jewel,17-10-23,0,60000,6.8,74.46
+C020098,58,Male, Memphis,"$240,000",Married,3,106000,Ring,07-11-23,0,954000,4.8,55.45
+C020295,59,Male, Philadelphia,"$300,000",Single,3,114000,Bracelet,04-01-23,0,342000,3.9,50.19
+C020613,57,Female, Tampa,"$240,000",Single,1,221000,Jewel,28-10-23,0,884000,6.6,70.66
+C020646,25,Female, Wichita,"$210,000",Married,1,1812,Jewel,29-05-23,0,3624,5.7,65.39
+C020755,36,Male, Louisville,"$190,000",Single,2,127000,Necklace,23-04-23,0.03,1016000,5.4,60.02
+C021111,27,Female, Tulsa,"$220,000",Married,4,29000,Pendant,24-03-23,0,580000,3.7,48.09
+C021205,23,Male, San Antonio,"$100,000",Married,2,29000,Jewel,18-04-23,0,58000,4.8,58.55
+C021442,31,Male, Fresno,"$80,000",Single,1,7000,Necklace,04-07-23,0,21000,5.2,61.8
+C021495,23,Female, Portland,"$250,000",Married,5,122000,Locket,18-03-23,0,2440000,2.6,33.68
+C021629,28,Female, Cincinnati,"$250,000",Single,6,246000,Necklace,15-09-23,0,1476000,2.5,35.84
+C021768,30,Male, Austin,"$160,000",Single,2,86000,Necklace,16-05-23,0,860000,4.9,56.89
+C021778,25,Female, Minneapolis,"$120,000",Single,2,4163,Pendant,11-11-23,0,8326,6.6,73.07
+C021844,40,Female, Chicago,"$230,000",Married,1,35000,Necklace,09-09-23,0.02,105000,7,75.63
+C021938,22,Male, Fort Worth,"$210,000",Single,5,8000,Necklace,25-11-23,0.05,200000,6.7,73.12
+C022070,41,Female, Albuquerque,"$160,000",Married,3,138000,Locket,30-03-23,0,2070000,3.8,44.33
+C022438,18,Female, Colorado Springs,"$130,000",Married,3,11000,Jewel,21-07-23,0,33000,5.2,61.84
+C022440,42,Male, Phoenix,"$130,000",Married,3,57000,Locket,24-12-23,0,342000,6.4,69.9
+C022647,19,Male, Norfolk,"$110,000",Single,1,450,Earrings,10-09-23,0,500,6.8,74.31
+C022762,43,Male, San Francisco,"$160,000",Married,1,85000,Necklace,29-04-23,0,170000,5.3,62
+C022813,23,Female, St Louis,"$270,000",Single,3,247000,Necklace,11-07-23,0,741000,5.2,59.45
+C022907,59,Male, Colorado Springs,"$240,000",Married,6,2274,Armlet,25-08-23,0.01,54576,4.6,56.33
+C023048,29,Female, Columbus,"$240,000",Single,2,74000,Pendant,04-06-23,0,592000,4.6,55.24
+C023093,19,Female, Sacramento,"$140,000",Married,3,65000,Bracelet,28-03-23,0,975000,4.1,49.7
+C023173,27,Male, New York,"$60,000",Married,1,46000,Necklace,19-12-23,0,184000,7.3,78.04
+C023253,52,Male, Fresno,"$180,000",Single,3,175000,Necklace,04-10-23,0,1050000,3.7,46.79
+C023254,40,Male, Wichita,"$200,000",Married,3,80000,Earrings,18-06-23,0,240000,4.7,56.8
+C023285,33,Female, Dallas,"$230,000",Single,5,112000,Locket,31-12-23,0,2800000,5.1,52.45
+C023298,25,Female, Philadelphia,"$180,000",Single,4,86000,Ring,10-07-23,0,1032000,5.1,57.5
+C023300,50,Male, Albuquerque,"$200,000",Married,5,177000,Earrings,05-03-23,0,1770000,2.6,35.7
+C023331,23,Female, Milwaukee,"$240,000",Single,3,147000,Armlet,13-11-23,0.03,882000,6.4,68.69
+C023444,24,Female, Nashville,"$240,000",Married,6,126000,Pendant,08-09-23,0,756000,3.2,43.22
+C023511,58,Male, Orlando,"$280,000",Married,3,280000,Bracelet,04-02-23,0,1680000,3.2,41.04
+C023591,46,Male, Tampa,"$150,000",Married,1,74000,Locket,12-05-23,0,148000,7.2,76.9
+C023609,51,Female, Albuquerque,"$110,000",Married,2,26000,Bracelet,29-08-23,0,156000,6,67.23
+C023658,58,Female, Boston,"$220,000",Married,2,150000,Earrings,08-02-23,0.08,600000,7.4,77.47
+C023671,38,Male, Jacksonville,"$100,000",Married,1,71000,Earrings,08-01-23,0.06,71000,7.6,80.73
+C023897,25,Female, Detroit,"$250,000",Married,5,149000,Earrings,14-07-23,0.06,1490000,4.9,54.83
+C023979,53,Male, Atlanta,"$180,000",Single,4,135000,Pendant,07-10-23,0,1620000,4,47.74
+C024048,54,Female, Dallas,"$220,000",Married,2,212000,Ring,13-09-23,0,848000,5.6,62.22
+C024095,37,Male, Tucson,"$280,000",Married,7,136000,Ring,14-06-23,0,2856000,2,28.01
+C024096,28,Female, Columbus,"$50,000",Married,1,46000,Necklace,11-01-23,0,138000,6.9,74.96
+C024103,55,Female, Tucson,"$230,000",Single,4,17000,Armlet,25-06-23,0.1,272000,7.1,75.71
+C024153,23,Male, Fresno,"$270,000",Single,2,261000,Earrings,19-04-23,0.05,1566000,5.5,59.28
+C024290,59,Male, Raleigh,"$80,000",Single,1,9000,Armlet,27-08-23,0.07,45000,8.2,85.21
+C024517,19,Male, Jacksonville,"$130,000",Single,2,128000,Bracelet,11-11-23,0,1280000,6.3,66.75
+C024643,22,Female, Virginia Beach,"$270,000",Single,1,133000,Necklace,20-07-23,0,133000,5.9,67.08
+C024789,30,Male, Albuquerque,"$180,000",Single,3,140000,Necklace,28-04-23,0,1680000,4,47.32
+C024963,30,Female, Tucson,"$50,000",Single,1,14000,Bracelet,06-02-23,0,42000,5.7,65.41
+C024973,35,Male, Seattle,"$250,000",Single,5,5000,Earrings,27-12-23,0,25000,5.7,65.92
+C025002,33,Female, Columbus,"$170,000",Married,4,80000,Ring,11-02-23,0,320000,5.3,61.54
+C025092,60,Male, Indianapolis,"$70,000",Married,1,51000,Necklace,09-06-23,0,51000,6.4,71.41
+C025209,23,Male, Milwaukee,"$130,000",Married,1,84000,Earrings,21-03-23,0,252000,5,59.17
+C025231,18,Male, San Diego,"$230,000",Single,3,139000,Necklace,04-01-23,0,417000,3.8,49.16
+C025268,28,Male, Las Vegas,"$230,000",Single,4,29000,Pendant,22-04-23,0.03,116000,4.7,57.36
+C025702,32,Female, Raleigh,"$270,000",Married,3,16000,Locket,29-06-23,0,240000,5,59.62
+C025752,38,Female, Mesa,"$270,000",Married,5,144000,Armlet,24-10-23,0,3600000,4.3,43.88
+C026379,37,Female, Seattle,"$100,000",Married,2,97000,Ring,04-01-23,0,776000,4.5,53.88
+C026429,43,Male, Columbus,"$190,000",Single,3,28000,Necklace,11-12-23,0,252000,6.1,68.29
+C026470,56,Male, San Antonio,"$70,000",Single,1,13000,Pendant,17-07-23,0,13000,6.1,68.52
+C026563,38,Male, Newark,"$70,000",Single,1,15000,Locket,07-04-23,0,75000,6,67.45
+C026659,23,Female, Oklahoma City,"$170,000",Single,2,25000,Armlet,05-06-23,0.06,200000,6.5,71.43
+C026801,56,Male, San Antonio,"$170,000",Married,2,167000,Locket,31-08-23,0.01,1002000,5.8,63.89
+C026816,49,Female, San Antonio,"$130,000",Married,1,98000,Pendant,04-06-23,0.1,98000,7.6,80.53
+C026854,22,Female, St Louis,"$50,000",Single,1,4594,Pendant,22-06-23,0,13782,5.9,66.93
+C026859,47,Female, Houston,"$240,000",Married,2,44000,Jewel,18-07-23,0,440000,5.6,63.22
+C026905,31,Female, Orlando,"$290,000",Single,2,63000,Bracelet,05-09-23,0.02,630000,5.4,61.58
+C026945,37,Female, Raleigh,"$50,000",Married,1,30000,Necklace,05-02-23,0.02,90000,5.9,67.03
+C026981,54,Male, Chicago,"$240,000",Married,2,98000,Necklace,27-11-23,0,588000,6.5,70.45
+C026992,18,Male, Tulsa,"$260,000",Married,3,173000,Necklace,09-04-23,0,1038000,5,56.72
+C026999,22,Male, Tampa,"$210,000",Married,3,21000,Locket,29-08-23,0,315000,5.5,63.32
+C027042,37,Female, Columbus,"$280,000",Married,1,183000,Armlet,13-11-23,0,366000,6.8,73.63
+C027146,58,Male, Philadelphia,"$130,000",Single,1,63000,Earrings,31-08-23,0,189000,6.4,70.48
+C027622,48,Male, New York,"$280,000",Single,3,17000,Locket,06-08-23,0,102000,4.9,58.58
+C027651,52,Female, Austin,"$300,000",Single,1,200000,Bracelet,08-04-23,0.01,400000,6.2,68.59
+C027698,24,Male, Houston,"$260,000",Single,6,227000,Necklace,31-03-23,0.03,5448000,2,20.46
+C027700,34,Male, St Louis,"$150,000",Married,1,62000,Bracelet,04-06-23,0,248000,5.2,60.49
+C027819,58,Female, New York,"$300,000",Single,3,540,Jewel,19-03-23,0,8100,4.2,53.96
+C027982,59,Female, Raleigh,"$110,000",Married,1,64000,Ring,09-09-23,0,64000,6.5,71.43
+C028022,56,Female, Portland,"$150,000",Single,2,55000,Pendant,05-08-23,0.07,330000,6.7,72.54
+C028138,60,Female, Los Angeles,"$90,000",Married,2,7000,Locket,21-06-23,0.06,14000,6.9,75.43
+C028200,59,Male, Charlotte,"$260,000",Married,5,211000,Earrings,25-09-23,0,2110000,3.6,42.58
+C028222,39,Male, St Louis,"$280,000",Single,3,14000,Bracelet,15-09-23,0.03,42000,6.4,71.47
+C028235,24,Male, Riverside,"$240,000",Married,1,4201,Locket,10-01-23,0.02,12603,7.2,77.7
+C028317,34,Female, Austin,"$300,000",Married,5,105000,Ring,13-06-23,0,525000,3.4,45.9
+C028334,44,Male, Tulsa,"$300,000",Single,7,58000,Locket,26-07-23,0.07,406000,4.9,57.74
+C028426,42,Male, Tucson,"$230,000",Married,2,200000,Bracelet,28-05-23,0,1600000,4.7,53.11
+C028499,30,Male, Los Angeles,"$190,000",Married,1,2632,Pendant,24-10-23,0,5264,6.9,75.27
+C028903,28,Male, Philadelphia,"$140,000",Married,3,110000,Necklace,03-09-23,0,660000,3.7,47.87
+C028950,32,Female, Long Beach,"$180,000",Single,1,145000,Ring,24-06-23,0,580000,5.7,63.93
+C029355,42,Female, Tucson,"$240,000",Married,4,169000,Earrings,11-09-23,0,676000,4.9,57.14
+C029533,52,Female, Memphis,"$270,000",Single,5,241000,Locket,16-04-23,0,2410000,2,29.27
+C029991,41,Male, Atlanta,"$300,000",Married,4,132000,Locket,25-12-23,0,1056000,5.5,60.73
+C030011,33,Female, Raleigh,"$190,000",Single,2,86000,Locket,26-10-23,0,688000,6.3,68.29
+C030097,18,Male, Austin,"$90,000",Single,1,59000,Bracelet,17-04-23,0,295000,5.2,61.13
+C030203,26,Male, Cincinnati,"$260,000",Single,3,205000,Locket,07-07-23,0,3075000,4.3,45.9
+C030257,30,Male, Las Vegas,"$100,000",Married,1,31000,Necklace,24-04-23,0,124000,5.3,62.39
+C030436,37,Male, Chicago,"$80,000",Single,2,7000,Necklace,04-09-23,0,42000,4.8,58.47
+C030546,19,Female, Philadelphia,"$170,000",Married,1,101000,Jewel,03-10-23,0,505000,4.9,57.53
+C030600,25,Male, San Jose,"$290,000",Single,3,225000,Armlet,12-09-23,0,675000,5.6,62.49
+C030626,60,Female, Raleigh,"$170,000",Single,2,115000,Necklace,12-09-23,0,920000,6.6,69.94
+C030670,35,Female, Pittsburgh,"$170,000",Single,4,120000,Bracelet,23-12-23,0,480000,5.5,62.76
+C030877,43,Female, Philadelphia,"$110,000",Single,2,18000,Necklace,19-04-23,0,180000,4.9,58.5
+C030886,20,Male, Austin,"$220,000",Married,5,162000,Necklace,11-08-23,0.09,810000,6.5,69.9
+C030909,38,Male, Newark,"$50,000",Single,1,31000,Jewel,04-01-23,0,93000,5.2,60.94
+C031009,19,Female, Miami,"$230,000",Married,5,63000,Jewel,22-04-23,0.01,1260000,3.5,44.59
+C031212,52,Male, Philadelphia,"$160,000",Married,2,61000,Bracelet,14-04-23,0,244000,4.7,57.06
+C031311,24,Female, Greensboro,"$60,000",Single,1,26000,Earrings,18-06-23,0.08,130000,7.8,82.1
+C031555,29,Male, Denver,"$300,000",Single,6,291000,Locket,29-05-23,0,6984000,1.2,9.86
+C031562,43,Male, Charlotte,"$300,000",Married,6,4702,Locket,05-05-23,0,56424,3.4,46.68
+C031686,55,Male, Newark,"$210,000",Single,5,171000,Ring,10-06-23,0,2565000,3.9,44.18
+C031843,18,Male, Mesa,"$110,000",Married,1,55000,Jewel,14-08-23,0,275000,6.2,69.19
+C031906,50,Female, Oklahoma City,"$230,000",Married,1,58000,Ring,23-11-23,0,232000,7.1,76.03
+C032136,29,Male, Mesa,"$190,000",Married,2,35000,Ring,26-05-23,0,350000,5.1,60.12
+C032160,46,Male, St Louis,"$50,000",Single,1,3000,Earrings,21-12-23,0,3000,7.4,79.16
+C032394,20,Male, Norfolk,"$130,000",Married,3,40000,Necklace,21-11-23,0,120000,6.2,68.88
+C032486,56,Male, Long Beach,"$110,000",Single,2,109000,Armlet,22-12-23,0,1090000,6.7,70.45
+C032605,38,Female, Oklahoma City,"$130,000",Married,3,54000,Necklace,05-06-23,0.03,324000,5.2,60.53
+C032609,29,Female, Tampa,"$230,000",Married,4,66000,Jewel,17-05-23,0,1320000,4,47.98
+C032629,22,Male, San Jose,"$140,000",Single,2,136000,Necklace,11-12-23,0,544000,6.3,68.75
+C032716,26,Male, Orlando,"$120,000",Married,2,30000,Jewel,28-05-23,0,180000,5.2,60.85
+C032767,25,Male, Long Beach,"$240,000",Single,6,54000,Armlet,25-04-23,0.01,1296000,3.1,41.26
+C033027,27,Male, Newark,"$250,000",Single,2,207000,Necklace,27-08-23,0,828000,5.5,61.25
+C033132,38,Female, Riverside,"$160,000",Single,2,4133,Locket,21-03-23,0,24798,4.7,57.31
+C033156,22,Male, Atlanta,"$140,000",Married,3,104000,Pendant,07-03-23,0,624000,4.7,55.93
+C033231,44,Female, Philadelphia,"$120,000",Married,1,16000,Jewel,04-02-23,0,64000,5.2,61.25
+C033510,54,Female, Wichita,"$70,000",Married,1,51000,Armlet,06-07-23,0,153000,5.7,65.03
+C033522,35,Female, Columbus,"$230,000",Married,4,119000,Jewel,04-07-23,0,1428000,3.3,42.7
+C033549,48,Male, Greensboro,"$110,000",Married,2,5000,Pendant,06-06-23,0,20000,5.3,62.45
+C033559,22,Male, San Jose,"$100,000",Single,2,89000,Earrings,07-04-23,0,712000,5.3,60.53
+C033569,30,Female, Austin,"$130,000",Married,3,83000,Earrings,30-08-23,0,1245000,5.3,58.71
+C033603,25,Female, Raleigh,"$110,000",Single,1,83000,Necklace,04-08-23,0,249000,5.1,60.4
+C033909,19,Female, Boston,"$170,000",Single,2,42000,Locket,26-07-23,0,252000,5.6,64.33
+C034018,48,Female, St Louis,"$170,000",Single,3,12000,Bracelet,10-12-23,0,36000,5.9,67.36
+C034442,55,Male, Wichita,"$210,000",Single,2,190000,Bracelet,08-11-23,0.06,760000,6.9,72.75
+C034470,34,Female, Philadelphia,"$70,000",Married,1,4035,Necklace,30-08-23,0,8070,6.4,71.57
+C034504,37,Male, Austin,"$120,000",Single,3,30000,Necklace,14-12-23,0,90000,6.4,70.83
+C034862,46,Male, Tampa,"$160,000",Single,1,80000,Necklace,29-07-23,0,240000,6.1,67.95
+C034904,23,Female, San Francisco,"$90,000",Married,2,1058,Bracelet,06-05-23,0,8464,5.3,62.51
+C034989,21,Female, Newark,"$110,000",Married,1,64000,Armlet,30-05-23,0,192000,5.6,64.24
+C035094,27,Male, Fresno,"$220,000",Single,1,109000,Ring,25-09-23,0.06,327000,8,83.26
+C035272,31,Female, Louisville,"$190,000",Married,2,12000,Ring,27-06-23,0,24000,5.5,63.7
+C035285,23,Female, Atlanta,"$240,000",Single,1,220000,Necklace,24-04-23,0,220000,5.1,60.07
+C035305,44,Female, Norfolk,"$280,000",Married,5,119000,Jewel,25-05-23,0,2380000,3.2,38.56
+C035316,56,Male, Wichita,"$200,000",Married,5,10000,Earrings,24-04-23,0,50000,3.7,49.06
+C035358,54,Male, Tulsa,"$130,000",Single,1,4678,Jewel,19-07-23,0,18712,6.1,68.73
+C035360,24,Female, San Antonio,"$90,000",Single,1,300,Necklace,08-06-23,0,450,6.3,70.03
+C035448,28,Female, Mesa,"$100,000",Married,2,2472,Earrings,20-12-23,0.03,14832,7.7,81.7
+C035474,50,Male, Philadelphia,"$250,000",Married,3,119000,Jewel,18-07-23,0.1,1071000,7.3,75.17
+C035563,28,Male, Milwaukee,"$90,000",Married,2,8000,Bracelet,16-03-23,0,64000,4.6,56.78
+C035589,57,Male, Los Angeles,"$140,000",Single,3,18000,Pendant,11-04-23,0,54000,6.1,68.65
+C035697,32,Female, Seattle,"$170,000",Married,1,142000,Necklace,14-03-23,0,710000,4.8,56.76
+C035832,60,Female, Oklahoma City,"$240,000",Married,1,236000,Locket,22-09-23,0,236000,6.3,69.95
+C035977,28,Female, Las Vegas,"$270,000",Married,2,238000,Necklace,06-02-23,0.08,1428000,6.7,69.11
+C035989,45,Male, Tucson,"$280,000",Single,6,268000,Earrings,26-10-23,0,3216000,2.7,32.17
+C036047,43,Male, San Francisco,"$140,000",Married,1,107000,Necklace,09-03-23,0,321000,6.3,69.83
+C036109,38,Male, Denver,"$250,000",Married,5,1631,Jewel,30-04-23,0.06,40775,5.3,61.94
+C036208,47,Female, Austin,"$60,000",Married,1,54000,Pendant,15-07-23,0,108000,6,67.67
+C036428,47,Male, Oklahoma City,"$230,000",Single,4,88000,Necklace,11-10-23,0,1408000,5.3,58.61
+C036482,43,Female, Los Angeles,"$80,000",Married,1,77000,Necklace,23-04-23,0.1,154000,7.8,81.74
+C036509,35,Female, St Louis,"$290,000",Married,4,252000,Locket,12-07-23,0.08,5040000,6.7,58.92
+C036532,52,Female, San Francisco,"$290,000",Married,2,33000,Necklace,10-01-23,0,264000,6.2,68.98
+C036545,31,Female, Miami,"$150,000",Single,3,128000,Earrings,11-11-23,0,384000,5.7,64.6
+C036604,21,Male, Sacramento,"$90,000",Married,2,78000,Pendant,25-12-23,0,468000,6.8,73.1
+C036621,36,Female, Las Vegas,"$180,000",Married,1,124000,Earrings,18-09-23,0,124000,6.4,71.21
+C036712,27,Male, Indianapolis,"$130,000",Single,2,127000,Armlet,30-06-23,0.08,254000,7.2,76.75
+C036811,60,Male, San Diego,"$270,000",Single,4,2050,Necklace,18-04-23,0,41000,4.1,52.47
+C036935,57,Female, Wichita,"$240,000",Married,6,6000,Armlet,14-04-23,0,72000,3.2,45.15
+C037139,18,Male, Sacramento,"$300,000",Married,5,71000,Necklace,10-09-23,0.03,1065000,5.4,60.09
+C037272,45,Female, Philadelphia,"$290,000",Married,5,11000,Earrings,05-07-23,0,165000,3.8,49.55
+C037443,54,Male, Oklahoma City,"$70,000",Married,1,4000,Necklace,27-12-23,0.05,16000,8.7,89.51
+C037586,43,Female, El Paso,"$180,000",Married,4,101000,Ring,06-08-23,0,1616000,4,47.09
+C037600,40,Female, Fort Worth,"$130,000",Married,2,47000,Earrings,20-05-23,0,470000,5.1,59.12
+C037744,51,Male, Nashville,"$290,000",Married,5,84000,Earrings,24-09-23,0,1260000,4.4,51.82
+C037776,20,Female, Pittsburgh,"$150,000",Single,1,65000,Jewel,11-03-23,0,260000,6.9,74.54
+C037807,55,Male, Louisville,"$240,000",Married,5,63000,Locket,24-04-23,0,945000,3.3,43.63
+C037933,50,Female, Minneapolis,"$190,000",Single,3,20000,Pendant,11-07-23,0.09,60000,8.4,86.77
+C038183,40,Female, Louisville,"$70,000",Married,1,12000,Necklace,16-09-23,0.03,24000,7.3,78.58
+C038265,31,Male, Philadelphia,"$70,000",Single,1,59000,Earrings,28-03-23,0,118000,5.1,60.29
+C038324,58,Male, Dallas,"$90,000",Single,2,7000,Jewel,22-11-23,0,28000,6.7,73.69
+C038404,28,Female, Charlotte,"$250,000",Single,2,99000,Locket,30-12-23,0,198000,6.8,73.76
+C038406,48,Male, Philadelphia,"$210,000",Single,5,192000,Necklace,22-08-23,0,960000,3.4,44.63
+C038514,48,Female, Kansas City,"$200,000",Single,5,39000,Armlet,10-07-23,0,195000,4.8,58.18
+C038569,24,Female, Denver,"$270,000",Single,1,51000,Necklace,19-06-23,0,102000,5.8,65.98
+C038572,55,Male, Colorado Springs,"$60,000",Single,1,47000,Locket,23-12-23,0,94000,7.4,78.55
+C038583,40,Male, St Louis,"$140,000",Married,2,1495,Necklace,13-08-23,0,8970,5.9,67.11
+C038640,47,Male, Indianapolis,"$90,000",Married,2,52000,Armlet,04-11-23,0,416000,4.7,56.56
+C038659,25,Female, Dallas,"$230,000",Single,2,54000,Necklace,13-08-23,0,540000,5.7,64.45
+C038701,45,Male, Raleigh,"$280,000",Married,3,232000,Necklace,30-07-23,0,696000,4.4,53.37
+C038709,37,Female, Norfolk,"$220,000",Married,3,198000,Ring,11-12-23,0,2970000,5.4,54.99
+C038913,51,Female, San Diego,"$290,000",Single,7,212000,Pendant,15-04-23,0,1484000,0.8,22.16
+C038931,18,Female, Austin,"$130,000",Single,3,15000,Necklace,31-10-23,0,90000,6.1,68.37
+C038932,20,Male, Orlando,"$110,000",Single,1,19000,Necklace,22-10-23,0,38000,6.9,74.87
+C038970,44,Female, Nashville,"$100,000",Married,2,90000,Ring,17-09-23,0,900000,5.9,64.98
+C039220,55,Female, Columbus,"$100,000",Single,2,96000,Necklace,05-08-23,0,768000,4.8,56.4
+C039290,18,Male, Mesa,"$120,000",Single,2,36000,Ring,20-12-23,0,144000,6.9,74.61
+C039480,49,Male, Oklahoma City,"$160,000",Single,2,39000,Earrings,24-06-23,0,78000,5.4,62.76
+C039510,49,Female, Jacksonville,"$290,000",Single,2,30000,Necklace,18-06-23,0,180000,5.3,62.26
+C039572,50,Female, Long Beach,"$170,000",Married,1,67000,Earrings,18-07-23,0,67000,6,67.85
+C039598,19,Female, Sacramento,"$50,000",Single,1,18000,Armlet,05-06-23,0,54000,5.5,63.53
+C039757,52,Male, Tulsa,"$300,000",Single,1,4547,Jewel,20-06-23,0.04,4547,6.9,74.83
+C039837,47,Male, Tampa,"$120,000",Married,3,55000,Jewel,09-10-23,0,660000,5.5,62.03
+C039904,30,Male, Orlando,"$300,000",Single,6,230000,Necklace,24-09-23,0,4140000,2.7,29.85
+C039946,31,Male, Louisville,"$230,000",Single,4,220000,Ring,03-09-23,0,880000,2.6,37.96
+C040062,22,Male, Houston,"$280,000",Single,3,730,Necklace,25-06-23,0,4380,5.1,60.52
+C040156,36,Female, Indianapolis,"$270,000",Married,3,60000,Earrings,06-03-23,0,900000,4.6,54.56
+C040181,55,Male, Oklahoma City,"$250,000",Married,6,46000,Armlet,10-10-23,0,552000,4.3,53.15
+C040324,43,Female, Cincinnati,"$200,000",Single,4,105000,Necklace,05-01-23,0,2100000,3.6,42.99
+C040366,55,Male, Memphis,"$180,000",Married,3,99000,Necklace,14-11-23,0,297000,5.9,65.99
+C040512,37,Female, Raleigh,"$200,000",Married,4,109000,Necklace,20-08-23,0,1308000,4.5,52.51
+C040677,31,Male, Atlanta,"$300,000",Single,2,240000,Jewel,21-12-23,0,960000,6.3,67.92
+C040714,51,Female, El Paso,"$280,000",Single,5,184000,Armlet,15-06-23,0,3680000,2.9,32.73
+C040727,44,Male, Fort Worth,"$210,000",Single,4,21000,Necklace,09-08-23,0,252000,5.2,60.61
+C040752,56,Female, San Francisco,"$140,000",Single,3,96000,Necklace,30-04-23,0,288000,4.2,52.87
+C040826,44,Female, Fort Worth,"$50,000",Married,1,44000,Earrings,01-02-24,0,88000,7.4,79.27
+C041056,55,Female, Tulsa,"$50,000",Single,1,3000,Necklace,12-05-23,0.08,3000,9.3,94.09
+C041060,38,Male, Long Beach,"$260,000",Single,2,237000,Ring,20-07-23,0,1422000,5.1,56.36
+C041108,45,Female, Albuquerque,"$210,000",Single,1,180000,Bracelet,04-10-23,0,360000,5,59.16
+C041116,32,Female, Newark,"$60,000",Married,1,7000,Necklace,23-12-23,0,21000,7.4,79.2
+C041131,51,Male, Miami,"$230,000",Married,1,97000,Earrings,14-06-23,0,485000,5.7,64.05
+C041159,20,Male, Mesa,"$200,000",Married,5,137000,Locket,12-07-23,0,1370000,4.7,53.59
+C041199,31,Male, Tucson,"$130,000",Single,1,1000,Locket,13-05-23,0.1,2000,8,84.33
+C041298,42,Male, Albuquerque,"$260,000",Single,5,59000,Locket,05-08-23,0,885000,3.4,44.95
+C041306,21,Female, Orlando,"$90,000",Single,2,2838,Ring,16-10-23,0,22704,6.4,71.32
+C041338,50,Male, Las Vegas,"$170,000",Single,1,95000,Pendant,25-03-23,0,475000,5,58.68
+C041405,59,Female, Newark,"$220,000",Married,5,66000,Necklace,06-01-23,0,660000,3.6,46.82
+C041484,42,Male, Los Angeles,"$90,000",Married,1,68000,Necklace,27-06-23,0,68000,5.8,66.43
+C041563,25,Male, San Antonio,"$60,000",Married,1,7000,Necklace,21-03-23,0,21000,5.1,60.67
+C041657,48,Male, Riverside,"$190,000",Married,1,104000,Bracelet,05-01-23,0.02,312000,5.8,65.53
+C041699,33,Male, Austin,"$230,000",Married,3,223000,Jewel,17-07-23,0.03,2676000,5.1,53.13
+C041715,50,Male, Kansas City,"$80,000",Single,1,30000,Necklace,30-09-23,0,60000,6.7,73.22
+C042004,40,Male, Colorado Springs,"$90,000",Single,2,86000,Bracelet,14-08-23,0,688000,5.7,63.4
+C042029,22,Female, Detroit,"$260,000",Married,5,251000,Locket,18-05-23,0,5020000,2.2,23.39
+C042148,50,Male, Virginia Beach,"$60,000",Single,1,7000,Bracelet,29-10-23,0,21000,6.9,75.52
+C042867,41,Female, Austin,"$150,000",Married,2,129000,Armlet,03-11-23,0,1290000,4.3,50.31
+C042964,25,Female, Tampa,"$140,000",Married,1,48000,Ring,16-05-23,0,144000,5.5,63.62
+C043195,39,Male, Denver,"$260,000",Married,5,60000,Ring,12-12-23,0.07,1500000,7,71.72
+C043315,45,Female, Norfolk,"$190,000",Married,1,127000,Jewel,11-04-23,0,127000,6.8,74.32
+C043495,34,Male, San Jose,"$300,000",Single,2,234000,Armlet,04-12-23,0.02,1404000,4.7,53.86
+C043508,30,Female, San Francisco,"$60,000",Single,1,1533,Locket,27-12-23,0,4599,7.4,79.57
+C043580,48,Female, St Louis,"$60,000",Single,1,53000,Jewel,26-04-23,0.08,53000,7.3,78.49
+C044089,48,Female, Phoenix,"$160,000",Single,4,76000,Ring,16-12-23,0,1216000,5.7,62.09
+C044456,44,Female, Atlanta,"$300,000",Single,1,36000,Ring,16-10-23,0,72000,6.8,74.19
+C044523,52,Male, Fort Worth,"$200,000",Single,4,94000,Earrings,16-06-23,0,752000,4.1,50.4
+C044549,42,Female, Portland,"$300,000",Single,6,124000,Necklace,20-09-23,0,1488000,3.5,44.06
+C044571,25,Female, Denver,"$80,000",Single,1,6000,Jewel,18-11-23,0,12000,7.1,76.89
+C045377,33,Male, Philadelphia,"$70,000",Single,1,61000,Bracelet,03-11-23,0,61000,4.9,59.3
+C045410,40,Female, Charlotte,"$290,000",Married,6,64000,Ring,10-07-23,0,384000,4.2,52.26
+C045444,54,Female, Cincinnati,"$240,000",Married,5,217000,Necklace,09-03-23,0,1085000,3.4,43.72
+C045538,40,Male, Mesa,"$160,000",Single,4,95000,Necklace,12-12-23,0,760000,5.6,62.31
+C045549,52,Male, San Antonio,"$190,000",Single,4,39000,Armlet,13-08-23,0,624000,4.9,57.03
+C045603,55,Male, Seattle,"$200,000",Married,4,46000,Necklace,23-09-23,0,736000,5.2,59.15
+C045665,22,Female, Boston,"$170,000",Married,3,111000,Ring,04-08-23,0.06,1332000,5.5,59.92
+C045741,46,Male, Austin,"$220,000",Married,2,5000,Ring,16-04-23,0.07,50000,6.6,72.96
+C045749,56,Female, San Antonio,"$280,000",Single,7,229000,Ring,17-10-23,0.03,3206000,2.9,34.32
+C046084,49,Male, Milwaukee,"$270,000",Married,3,263000,Jewel,16-04-23,0,1578000,3.4,42.82
+C046147,24,Female, Indianapolis,"$140,000",Married,1,130000,Pendant,09-05-23,0,390000,6.3,69.52
+C046281,31,Male, Orlando,"$230,000",Single,4,229000,Pendant,18-07-23,0.07,1832000,5.4,57.6
+C046475,42,Male, Las Vegas,"$230,000",Married,2,97000,Jewel,28-03-23,0,582000,4.5,54.17
+C046828,59,Male, Chicago,"$50,000",Married,1,45000,Armlet,04-10-23,0,45000,5.2,61.52
+C046907,25,Female, Philadelphia,"$100,000",Married,2,45000,Necklace,06-03-23,0,180000,5.2,60.93
+C047102,56,Female, Orlando,"$130,000",Single,2,5000,Necklace,17-04-23,0,20000,4.9,59.11
+C047203,24,Male, Jacksonville,"$210,000",Married,1,187000,Necklace,27-08-23,0.08,187000,8.2,84.88
+C047640,46,Female, Portland,"$290,000",Single,6,155000,Necklace,11-11-23,0,1860000,3.7,44.46
+C047670,57,Male, Riverside,"$260,000",Married,2,206000,Armlet,26-04-23,0,2060000,4.4,49.52
+C047734,48,Male, Houston,"$60,000",Married,1,1000,Pendant,10-09-23,0,5000,6.8,74.29
+C047753,40,Male, El Paso,"$210,000",Single,2,176000,Bracelet,18-12-23,0,704000,6.5,69.84
+C047782,51,Male, Virginia Beach,"$130,000",Single,2,53000,Pendant,15-04-23,0,318000,4.7,57.08
+C047895,52,Female, Fort Worth,"$200,000",Single,2,164000,Jewel,20-09-23,0,656000,5.8,64.28
+C048278,52,Female, St Louis,"$150,000",Married,2,97000,Pendant,09-01-23,0,776000,5.8,64.12
+C048420,54,Male, Long Beach,"$90,000",Married,2,64000,Ring,04-01-23,0,384000,4.6,55.72
+C048491,32,Male, Omaha,"$270,000",Single,3,34000,Necklace,17-05-23,0,408000,4.6,55.68
+C048579,46,Male, New York,"$110,000",Married,2,24000,Ring,29-05-23,0.08,192000,7.2,77.02
+C048847,36,Female, Fresno,"$230,000",Married,4,133000,Armlet,12-01-23,0,532000,5.3,60.58
+C048862,26,Male, Las Vegas,"$100,000",Single,1,57000,Earrings,27-12-23,0,228000,7.4,78.33
+C048893,45,Female, San Antonio,"$110,000",Married,2,3594,Bracelet,04-05-23,0,35940,4.8,58.29
+C049028,29,Male, St Louis,"$210,000",Single,2,188000,Bracelet,26-09-23,0.06,752000,7.3,75.89
+C049029,22,Female, San Antonio,"$170,000",Single,4,81000,Locket,15-09-23,0,1620000,4.9,54.56
+C049064,56,Male, Norfolk,"$250,000",Married,2,184000,Bracelet,23-07-23,0,1840000,5.2,56.51
+C049122,36,Female, Omaha,"$200,000",Single,2,57000,Jewel,28-07-23,0,456000,5.6,63.56
+C049245,45,Male, Philadelphia,"$230,000",Married,1,89000,Armlet,10-04-23,0,267000,6.6,72.25
+C049533,22,Male, Virginia Beach,"$210,000",Single,1,4538,Jewel,04-10-23,0,9076,5.3,62.07
+C049616,57,Female, Minneapolis,"$130,000",Single,1,129000,Bracelet,23-04-23,0,387000,5.2,60.51
+C049815,31,Female, Jacksonville,"$100,000",Married,1,88000,Jewel,26-04-23,0,88000,5.3,62.01
+C049858,26,Male, Nashville,"$50,000",Single,1,13000,Bracelet,11-08-23,0,13000,7,76.14
+C049878,46,Male, Austin,"$230,000",Married,1,192000,Ring,24-10-23,0,576000,6.7,71.59
+C050037,60,Female, Philadelphia,"$290,000",Married,4,203000,Locket,12-01-23,0,4060000,4.9,47.45
+C050269,32,Female, Kansas City,"$80,000",Single,2,50000,Necklace,05-09-23,0,300000,5,58.81
+C050283,36,Female, Greensboro,"$270,000",Single,4,58000,Bracelet,25-06-23,0,232000,4.3,54.05
+C050312,38,Male, Kansas City,"$240,000",Single,6,53000,Armlet,10-06-23,0,318000,4.3,53.09
+C050327,51,Male, Fresno,"$180,000",Single,2,104000,Armlet,29-11-23,0,624000,6.5,70.35
+C050334,48,Male, Columbus,"$90,000",Married,1,56000,Locket,04-04-23,0,280000,5.1,60.33
+C050335,26,Female, Oklahoma City,"$80,000",Single,1,69000,Armlet,28-06-23,0,207000,5.8,66.09
+C050356,38,Female, Columbus,"$50,000",Married,1,18000,Necklace,19-09-23,0,36000,6.6,72.68
+C050445,31,Male, Milwaukee,"$230,000",Single,4,3668,Jewel,12-08-23,0,44016,6,68.04
+C050508,58,Female, Indianapolis,"$250,000",Married,6,150000,Earrings,07-09-23,0.02,4500000,3.2,32.87
+C050557,29,Male, Austin,"$170,000",Married,4,152000,Armlet,14-09-23,0,2432000,4.5,49.1
+C050652,31,Male, Pittsburgh,"$300,000",Single,1,140000,Necklace,16-11-23,0,140000,6.9,74.94
+C050727,55,Male, Jacksonville,"$260,000",Single,3,220000,Necklace,05-03-23,0.04,3300000,4.7,48.42
+C050802,36,Male, Raleigh,"$140,000",Single,3,29000,Necklace,15-12-23,0,348000,6.4,70.19
+C050887,23,Female, Chicago,"$50,000",Married,1,32000,Ring,06-12-23,0.03,32000,6.5,71.92
+C050986,20,Female, Oklahoma City,"$60,000",Married,1,12000,Armlet,15-09-23,0,48000,6.6,72.44
+C051001,34,Male, Houston,"$280,000",Single,5,52000,Pendant,04-01-23,0,260000,3.2,44.65
+C051049,49,Male, Tulsa,"$170,000",Single,2,42000,Ring,04-10-23,0.03,252000,5.5,63.18
+C051112,33,Male, Nashville,"$270,000",Married,1,16000,Necklace,26-08-23,0,48000,6.4,71.06
+C051147,22,Male, Oklahoma City,"$220,000",Married,3,212000,Pendant,22-09-23,0,1272000,5,55.98
+C051245,50,Female, San Antonio,"$130,000",Married,2,128000,Earrings,25-07-23,0,1280000,5.4,59.46
+C051664,19,Female, Oklahoma City,"$130,000",Single,3,1961,Pendant,13-05-23,0,11766,4.7,57.58
+C051681,41,Female, Virginia Beach,"$100,000",Married,1,88000,Jewel,23-08-23,0.1,264000,8.8,89.46
+C051775,57,Female, Fresno,"$270,000",Married,6,245000,Armlet,21-04-23,0,5880000,1.3,13.46
+C051993,44,Male, Tulsa,"$260,000",Single,2,77000,Armlet,13-12-23,0.06,616000,8.2,83.9
+C052203,33,Female, Fort Worth,"$200,000",Single,4,74000,Jewel,31-07-23,0,888000,4.6,53.89
+C052382,39,Male, San Antonio,"$70,000",Single,1,16000,Ring,11-06-23,0,80000,7,75.79
+C052579,53,Female, Boston,"$280,000",Single,4,218000,Earrings,15-08-23,0,4360000,3.9,38.71
+C052681,55,Female, Jacksonville,"$150,000",Single,1,107000,Ring,04-03-23,0,214000,5.1,59.9
+C052792,30,Male, Orlando,"$70,000",Married,1,1757,Ring,16-08-23,0,8785,6.3,70.66
+C052999,54,Female, Oklahoma City,"$140,000",Single,1,400,Ring,27-06-23,0,500,5.9,67.36
+C053017,59,Male, Tucson,"$230,000",Single,5,82000,Necklace,11-02-23,0,820000,4.8,55.8
+C053048,27,Female, Chicago,"$280,000",Married,2,271000,Pendant,10-01-23,0.08,1084000,7.6,77.48
+C053104,57,Female, Tulsa,"$230,000",Single,3,4341,Locket,13-10-23,0,52092,6,67.63
+C053135,37,Female, Raleigh,"$60,000",Married,1,24000,Necklace,31-05-23,0,120000,5.7,64.95
+C053276,49,Female, Fresno,"$80,000",Single,1,24000,Locket,12-06-23,0,120000,7.2,77.59
+C053376,51,Male, Fresno,"$240,000",Married,2,222000,Necklace,19-11-23,0,2220000,6.1,62.56
+C053378,50,Male, Austin,"$270,000",Married,5,78000,Armlet,13-06-23,0,1950000,3.6,43.28
+C053453,52,Male, Long Beach,"$120,000",Married,1,3197,Ring,12-11-23,0,9591,7.3,78.47
+C053742,22,Male, Louisville,"$80,000",Single,1,4554,Bracelet,21-04-23,0.06,4554,6.9,74.81
+C053966,51,Female, Sacramento,"$230,000",Single,3,75000,Locket,13-10-23,0,225000,5.7,64.84
+C053990,32,Female, Portland,"$170,000",Single,1,1000,Earrings,23-11-23,0,5000,7.2,77.3
+C054063,20,Female, Riverside,"$150,000",Married,1,38000,Ring,14-04-23,0,152000,5.2,61.56
+C054067,40,Female, Oklahoma City,"$230,000",Married,2,7000,Armlet,29-11-23,0,56000,6.8,74.08
+C054120,45,Female, San Antonio,"$200,000",Single,3,181000,Earrings,06-06-23,0.1,2172000,6.7,67.19
+C054199,53,Male, Columbus,"$170,000",Married,1,75000,Necklace,10-11-23,0,75000,6.7,73.42
+C054319,23,Male, Louisville,"$220,000",Married,3,113000,Armlet,21-12-23,0,678000,6.1,66.92
+C054381,19,Male, Philadelphia,"$110,000",Married,2,48000,Locket,15-10-23,0,288000,6.3,69.52
+C054385,35,Male, Las Vegas,"$110,000",Married,2,29000,Necklace,26-08-23,0,290000,5.9,66.58
+C054467,53,Male, Raleigh,"$150,000",Married,3,123000,Necklace,28-07-23,0,369000,4.8,57.71
+C054506,56,Female, Boston,"$170,000",Single,1,42000,Armlet,04-01-23,0,42000,5.1,60.96
+C054593,43,Male, Las Vegas,"$220,000",Married,3,145000,Bracelet,12-11-23,0,870000,5.9,64.66
+C054605,51,Male, Tucson,"$130,000",Single,2,59000,Locket,24-05-23,0,590000,5.1,58.78
+C054821,30,Male, Philadelphia,"$130,000",Married,2,50000,Locket,13-05-23,0,400000,5,58.79
+C054928,53,Female, Houston,"$140,000",Single,1,99000,Necklace,29-03-23,0,99000,5,59.98
+C055079,25,Male, New York,"$70,000",Single,1,34000,Jewel,17-03-23,0,68000,5,59.97
+C055349,28,Male, Denver,"$110,000",Married,1,21000,Armlet,19-10-23,0,21000,6.8,74.7
+C055645,22,Female, Portland,"$50,000",Single,1,4766,Ring,15-05-23,0,9532,5.6,64.4
+C055650,22,Female, Greensboro,"$160,000",Single,2,51000,Necklace,19-09-23,0,510000,6.1,67.08
+C055704,54,Male, San Francisco,"$240,000",Single,4,113000,Jewel,19-04-23,0,1356000,3.5,43.97
+C055756,40,Female, Philadelphia,"$100,000",Married,1,35000,Jewel,30-03-23,0,140000,5.1,60.62
+C055792,26,Male, Boston,"$130,000",Married,2,41000,Pendant,25-07-23,0,164000,5.6,64.54
+C055808,46,Male, San Francisco,"$190,000",Married,1,187000,Pendant,12-10-23,0,187000,7.1,75.9
+C055821,48,Male, Philadelphia,"$290,000",Single,5,4134,Necklace,23-06-23,0,82680,4.2,53.3
+C055906,22,Male, Phoenix,"$230,000",Single,2,175000,Necklace,30-10-23,0,1400000,6.1,64.59
+C055952,52,Female, Philadelphia,"$210,000",Single,5,88000,Jewel,07-08-23,0,2200000,3.7,43.7
+C056113,38,Female, Wichita,"$290,000",Married,2,48000,Earrings,26-11-23,0,480000,6.6,71.78
+C056152,22,Female, Austin,"$130,000",Married,1,68000,Ring,04-07-23,0.04,68000,6.2,69.01
+C056266,34,Female, Oklahoma City,"$250,000",Married,4,22000,Ring,04-05-23,0,88000,3.9,50.6
+C056312,32,Female, New York,"$50,000",Married,1,38000,Ring,07-08-23,0,76000,6,67.46
+C056355,49,Male, Tucson,"$80,000",Married,1,34000,Jewel,18-05-23,0,68000,5.5,64.12
+C056375,60,Female, Miami,"$70,000",Single,1,26000,Pendant,22-03-23,0,26000,5.1,60.51
+C056418,54,Female, Jacksonville,"$230,000",Married,4,85000,Ring,12-03-23,0,680000,5.5,62.37
+C056559,27,Female, Miami,"$160,000",Married,4,86000,Ring,04-09-23,0,344000,3.5,47.37
+C056670,31,Female, Fresno,"$250,000",Married,3,216000,Earrings,03-12-23,0,3240000,3.3,37.24
+C056878,41,Male, Riverside,"$260,000",Single,5,56000,Earrings,08-05-23,0,280000,4.2,52.8
+C056983,18,Male, Denver,"$150,000",Married,1,118000,Ring,13-03-23,0,472000,4.9,57.64
+C056997,25,Female, Milwaukee,"$250,000",Married,6,103000,Locket,25-11-23,0,1854000,4.3,48.79
+C057016,24,Female, Minneapolis,"$140,000",Single,1,94000,Jewel,10-05-23,0.01,94000,6.9,74.76
+C057274,18,Female, Charlotte,"$130,000",Married,3,69000,Armlet,24-05-23,0,207000,4.5,55.58
+C057521,52,Male, Mesa,"$110,000",Married,1,102000,Pendant,11-12-23,0.1,306000,9.4,94.61
+C057584,48,Male, Long Beach,"$240,000",Married,1,57000,Armlet,05-12-23,0,57000,5.5,63.5
+C057629,32,Male, St Louis,"$150,000",Married,3,25000,Ring,09-02-23,0,75000,5.5,64.15
+C057643,18,Female, Boston,"$100,000",Single,2,56000,Armlet,09-03-23,0,560000,5.9,65.76
+C057665,21,Female, Philadelphia,"$230,000",Married,4,103000,Armlet,10-04-23,0,1236000,4.9,55.98
+C057699,51,Male, Omaha,"$270,000",Single,6,204000,Jewel,08-02-23,0,2448000,2.5,32.84
+C057741,53,Female, Virginia Beach,"$290,000",Single,6,81000,Armlet,10-06-23,0,2430000,4,45.23
+C057954,35,Female, Philadelphia,"$140,000",Married,1,19000,Necklace,10-11-23,0,95000,6.8,73.97
+C058044,34,Female, St Louis,"$80,000",Single,1,7000,Bracelet,28-12-23,0,21000,7.4,79.53
+C058107,21,Female, Newark,"$270,000",Married,5,76000,Necklace,31-07-23,0,1140000,4,48.92
+C058115,55,Male, Houston,"$160,000",Single,2,93000,Locket,17-03-23,0,186000,4.4,54.66
+C058167,27,Male, Mesa,"$60,000",Single,1,32000,Earrings,27-11-23,0,64000,7.2,77.06
+C058171,60,Male, El Paso,"$120,000",Single,3,33000,Armlet,25-12-23,0,198000,6.5,71.16
+C058192,38,Female, Fort Worth,"$100,000",Married,1,9000,Locket,05-02-23,0.1,9000,7.9,83.49
+C058199,22,Female, Long Beach,"$90,000",Single,2,81000,Earrings,03-12-23,0,648000,4.4,53.26
+C058264,58,Male, Raleigh,"$120,000",Single,2,50000,Locket,31-05-23,0,300000,5.1,60.28
+C058401,35,Female, Cincinnati,"$300,000",Married,6,35000,Necklace,13-05-23,0,210000,3.2,44.81
+C058407,44,Male, Tulsa,"$60,000",Single,1,22000,Earrings,27-11-23,0,22000,7.2,77.29
+C058419,52,Male, New York,"$100,000",Married,2,43000,Ring,04-04-23,0,86000,4.7,57.23
+C058467,27,Male, Boston,"$150,000",Married,3,18000,Earrings,20-12-23,0,216000,6.5,71.26
+C058552,31,Female, Charlotte,"$200,000",Single,4,154000,Necklace,17-08-23,0,1232000,4.3,50.57
+C058603,35,Female, Chicago,"$210,000",Married,3,972,Pendant,18-09-23,0,14580,5.8,66.17
+C058728,50,Male, Austin,"$60,000",Married,1,2000,Ring,08-08-23,0,2000,6.3,70.14
+C058993,46,Male, Oklahoma City,"$190,000",Married,3,154000,Jewel,26-03-23,0,924000,3.7,46.82
+C059183,31,Female, Tucson,"$140,000",Single,2,53000,Ring,17-07-23,0,318000,5.5,63.3
+C059194,44,Male, Jacksonville,"$250,000",Single,5,118000,Earrings,27-08-23,0.1,2950000,6.5,63.27
+C059215,41,Male, Kansas City,"$110,000",Married,2,14000,Ring,06-11-23,0,84000,5.3,62.41
+C059275,27,Male, Newark,"$60,000",Single,1,51000,Locket,11-07-23,0,255000,7,74.97
+C059302,39,Female, Boston,"$140,000",Single,1,121000,Locket,22-08-23,0,242000,6.2,69.1
+C059514,59,Female, Las Vegas,"$250,000",Married,6,36000,Necklace,11-03-23,0,432000,4.6,55.75
+C059536,52,Female, Sacramento,"$150,000",Single,3,149000,Armlet,06-07-23,0,1788000,4.3,49.4
+C059646,36,Female, Chicago,"$250,000",Married,2,244000,Earrings,27-05-23,0,1952000,4.6,51.08
+C059679,40,Male, Portland,"$290,000",Single,3,23000,Earrings,09-06-23,0,276000,5.6,63.9
+C059754,52,Female, San Antonio,"$290,000",Single,4,32000,Necklace,08-04-23,0,512000,4.8,57.05
+C059768,58,Female, Philadelphia,"$180,000",Single,3,10000,Locket,07-10-23,0,150000,5.2,60.81
+C059807,26,Female, Boston,"$270,000",Married,4,230000,Armlet,31-08-23,0,920000,4,49.11
+C059857,37,Female, Oklahoma City,"$290,000",Married,4,223000,Armlet,24-12-23,0,1784000,5,54.64
+C059922,49,Female, Mesa,"$50,000",Married,1,47000,Earrings,19-10-23,0,141000,6.8,74.07
+C059963,26,Male, Colorado Springs,"$300,000",Single,7,185000,Earrings,30-09-23,0,6475000,2.5,21.15
+C060022,37,Female, Wichita,"$100,000",Single,2,49000,Ring,14-04-23,0,98000,4.8,57.73
+C060125,54,Female, Jacksonville,"$100,000",Married,2,7000,Necklace,06-02-23,0.06,56000,6.8,74.04
+C060146,38,Male, Newark,"$160,000",Single,3,125000,Locket,15-04-23,0,1125000,4,48.53
+C060223,49,Female, Las Vegas,"$270,000",Married,2,5000,Necklace,29-10-23,0.03,40000,7.3,78.1
+C060247,20,Female, San Francisco,"$250,000",Married,1,46000,Bracelet,22-11-23,0,230000,7.1,76.1
+C060254,27,Male, Oklahoma City,"$280,000",Single,4,212000,Ring,28-06-23,0,2544000,3.5,40.96
+C060277,37,Female, Jacksonville,"$190,000",Married,2,145000,Bracelet,15-12-23,0,580000,6.5,70.66
+C060297,25,Male, Tulsa,"$140,000",Married,1,82000,Locket,29-10-23,0,328000,6.8,73.83
+C060372,60,Female, St Louis,"$250,000",Single,4,160000,Bracelet,24-11-23,0,1920000,5.1,54.97
+C060373,29,Male, San Francisco,"$110,000",Single,1,61000,Necklace,05-11-23,0,122000,5.4,63.2
+C060379,59,Male, San Diego,"$280,000",Married,6,184000,Bracelet,09-05-23,0,1104000,2.9,40.26
+C060383,42,Male, Mesa,"$260,000",Married,4,22000,Earrings,14-09-23,0,440000,5.2,60.43
+C060404,33,Female, Oklahoma City,"$240,000",Married,5,191000,Armlet,16-07-23,0.07,955000,4.9,56.23
+C060439,28,Female, Riverside,"$90,000",Single,2,29000,Ring,22-10-23,0,232000,6.4,70.56
+C060480,23,Female, Fresno,"$250,000",Single,5,106000,Earrings,22-08-23,0,1590000,4,47.48
+C060616,33,Male, Philadelphia,"$200,000",Single,5,852,Locket,08-05-23,0,8520,4.6,56.56
+C060896,51,Female, Oklahoma City,"$200,000",Married,5,182000,Necklace,19-08-23,0.07,3640000,5.2,51.3
+C060958,18,Female, Orlando,"$110,000",Married,2,12000,Ring,09-07-23,0,96000,6.1,68.31
+C060961,35,Male, San Antonio,"$300,000",Single,5,15000,Ring,14-05-23,0,150000,3.8,49.84
+C060993,29,Female, Tulsa,"$220,000",Single,1,193000,Necklace,28-12-23,0,193000,7.2,77.02
+C060994,48,Female, Chicago,"$290,000",Married,4,240000,Locket,13-06-23,0,3840000,3.3,35.04
+C061121,55,Female, Oklahoma City,"$250,000",Married,3,139000,Armlet,22-05-23,0,417000,4.2,52.58
+C061246,24,Female, Greensboro,"$190,000",Single,4,161000,Necklace,18-10-23,0,3220000,4.7,48.73
+C061385,59,Male, Oklahoma City,"$130,000",Married,1,92000,Ring,11-01-23,0,184000,6.9,74.33
+C061493,28,Male, Fresno,"$290,000",Single,7,28000,Necklace,15-05-23,0,196000,2.8,41.8
+C061554,27,Female, Minneapolis,"$80,000",Married,1,68000,Bracelet,28-07-23,0.03,136000,6.8,74.31
+C061621,21,Male, Cincinnati,"$250,000",Single,6,87000,Necklace,26-06-23,0.09,1044000,5.4,59.99
+C061675,25,Female, San Diego,"$300,000",Single,6,107000,Locket,19-08-23,0,1926000,3.4,41.77
+C061738,30,Male, Miami,"$150,000",Married,3,57000,Necklace,24-03-23,0,684000,4.1,50.53
+C061887,60,Female, Oklahoma City,"$50,000",Single,1,4000,Necklace,23-10-23,0,20000,6.9,75.15
+C061971,43,Female, Sacramento,"$300,000",Single,6,151000,Necklace,12-12-23,0.01,3624000,4.3,43.75
+C062039,26,Male, Columbus,"$160,000",Married,2,27000,Necklace,17-04-23,0,270000,4.8,57.92
+C062091,35,Male, Jacksonville,"$240,000",Single,5,142000,Ring,22-09-23,0,2840000,4,44.03
+C062167,55,Female, Minneapolis,"$130,000",Married,1,22000,Ring,13-04-23,0,66000,5.3,61.91
+C062595,39,Male, Philadelphia,"$200,000",Married,2,29000,Armlet,30-04-23,0,232000,4.9,58.85
+C062766,21,Male, New York,"$300,000",Married,4,91000,Pendant,27-08-23,0,1456000,4.7,53.33
+C062968,45,Female, Mesa,"$160,000",Married,4,24000,Ring,04-03-23,0,384000,3.8,49.53
+C063098,28,Male, El Paso,"$160,000",Married,2,78000,Armlet,14-06-23,0,624000,5.2,59.68
+C063295,51,Male, Greensboro,"$250,000",Married,2,96000,Locket,24-12-23,0.06,768000,8.2,83.79
+C063350,50,Female, Pittsburgh,"$190,000",Married,4,1725,Jewel,29-05-23,0,27600,4.4,55.26
+C063484,59,Female, Austin,"$220,000",Single,2,1384,Bracelet,18-04-23,0,8304,4.9,59.29
+C063500,50,Male, Kansas City,"$170,000",Married,3,145000,Pendant,20-11-23,0,2175000,5.7,59.52
+C063503,32,Female, Wichita,"$160,000",Single,4,91000,Bracelet,26-05-23,0,1092000,3.9,48.15
+C063514,54,Female, Las Vegas,"$150,000",Single,2,113000,Pendant,10-12-23,0,904000,6.1,66.15
+C063578,46,Male, Tucson,"$140,000",Single,3,49000,Necklace,06-10-23,0.03,735000,5.5,61.86
+C063697,42,Female, Greensboro,"$120,000",Single,1,60000,Bracelet,07-03-23,0,120000,5.9,66.77
+C063876,45,Male, Wichita,"$240,000",Single,5,85000,Necklace,05-09-23,0.08,850000,5.3,59.71
+C064113,32,Female, New York,"$110,000",Married,2,39000,Ring,27-04-23,0,78000,4.9,58.88
+C064138,58,Female, Nashville,"$160,000",Married,3,118000,Necklace,20-08-23,0,708000,5.1,58.44
+C064233,28,Female, Newark,"$200,000",Married,2,1000,Locket,09-01-23,0.07,8000,7.8,82.39
+C064328,44,Female, Tucson,"$80,000",Single,1,59000,Bracelet,15-12-23,0,295000,7.3,77.31
+C064472,58,Male, Mesa,"$150,000",Married,3,53000,Necklace,03-10-23,0,795000,4,49.4
+C064479,19,Male, Cincinnati,"$80,000",Married,1,17000,Necklace,04-04-23,0,34000,5.2,61.46
+C064516,30,Male, Milwaukee,"$300,000",Married,1,293000,Ring,21-12-23,0,879000,7,73.51
+C064711,53,Male, San Jose,"$170,000",Single,1,64000,Necklace,11-12-23,0,192000,7,75.35
+C065039,20,Female, San Antonio,"$90,000",Single,1,67000,Bracelet,26-10-23,0.03,335000,7.6,79.77
+C065115,45,Female, Riverside,"$280,000",Married,3,214000,Pendant,20-05-23,0,642000,3.9,49.36
+C065133,47,Female, Minneapolis,"$200,000",Married,2,152000,Earrings,21-09-23,0.03,912000,6.6,69.88
+C065151,60,Male, Omaha,"$100,000",Single,2,93000,Pendant,23-06-23,0,186000,5.2,61.21
+C065157,19,Male, Newark,"$240,000",Married,3,33000,Earrings,06-12-23,0,495000,4.8,57.2
+C065500,39,Male, Dallas,"$180,000",Single,2,60000,Pendant,20-11-23,0,480000,6.6,71.12
+C065540,60,Female, Greensboro,"$110,000",Single,2,106000,Earrings,21-08-23,0,636000,5.7,63.59
+C065557,39,Female, Long Beach,"$120,000",Single,2,16000,Necklace,16-08-23,0.04,128000,6.9,74.66
+C065655,39,Female, Cincinnati,"$70,000",Single,1,64000,Jewel,15-12-23,0.1,256000,9.8,97.37
+C065685,47,Male, Boston,"$50,000",Married,1,40000,Bracelet,06-10-23,0,40000,5.7,65.67
+C065694,52,Male, Columbus,"$240,000",Married,3,173000,Armlet,18-08-23,0,2076000,4.8,52.61
+C065789,26,Female, Fort Worth,"$270,000",Married,1,200000,Ring,23-09-23,0,800000,6.4,68.79
+C065809,36,Male, Los Angeles,"$140,000",Married,1,72000,Bracelet,14-09-23,0,144000,6.5,71.45
+C065868,30,Male, Los Angeles,"$220,000",Single,3,5000,Ring,15-11-23,0,30000,6.2,69.87
+C066031,54,Female, Los Angeles,"$180,000",Single,2,28000,Locket,11-01-23,0,280000,6.5,71.11
+C066219,49,Male, Louisville,"$140,000",Married,3,105000,Earrings,16-03-23,0,630000,3.8,48.59
+C066386,47,Male, Tulsa,"$220,000",Married,1,158000,Jewel,27-09-23,0,474000,6.5,70.44
+C066710,38,Female, Greensboro,"$290,000",Single,1,20000,Jewel,21-06-23,0,60000,5.8,66.57
+C066822,60,Male, Sacramento,"$70,000",Married,1,45000,Necklace,16-09-23,0,180000,6.5,71.77
+C066870,29,Male, Kansas City,"$200,000",Married,1,158000,Earrings,06-10-23,0,316000,5.6,63.61
+C066878,46,Male, Fresno,"$240,000",Married,3,41000,Pendant,21-09-23,0,369000,5.6,64.06
+C066927,18,Female, Memphis,"$150,000",Married,1,39000,Locket,07-01-23,0,78000,5.9,66.98
+C066995,49,Female, Tucson,"$70,000",Single,1,16000,Jewel,26-04-23,0,48000,5.4,62.9
+C067344,55,Male, Pittsburgh,"$150,000",Married,1,147000,Ring,10-04-23,0.05,294000,7.8,81.55
+C067375,25,Male, Raleigh,"$110,000",Single,2,4308,Ring,04-09-23,0.09,25848,7.1,76.57
+C067437,38,Male, Nashville,"$190,000",Married,1,78000,Armlet,24-03-23,0,312000,5,59.27
+C067514,38,Male, Mesa,"$70,000",Single,1,62000,Pendant,08-04-23,0,310000,6.2,68.34
+C067570,45,Male, Wichita,"$250,000",Married,4,62000,Armlet,13-08-23,0,1240000,4.7,54.27
+C067619,41,Female, Memphis,"$60,000",Married,1,11000,Jewel,19-04-23,0,44000,5.3,62.5
+C067632,20,Male, Oklahoma City,"$290,000",Single,7,184000,Pendant,04-01-23,0,1288000,0.9,23.91
+C067724,25,Female, San Diego,"$70,000",Single,1,10000,Bracelet,19-07-23,0,40000,6.1,68.61
+C067817,36,Female, Louisville,"$260,000",Single,4,106000,Pendant,07-04-23,0,2120000,4.2,47.17
+C067829,19,Male, Seattle,"$60,000",Married,1,14000,Locket,30-04-23,0,28000,5.4,63.25
+C067832,40,Female, Colorado Springs,"$200,000",Single,5,95000,Earrings,09-11-23,0,1900000,4.2,48.53
+C067946,24,Male, Raleigh,"$180,000",Married,2,78000,Locket,24-11-23,0.05,624000,7.8,80.58
+C067947,20,Female, Newark,"$290,000",Married,7,49000,Jewel,26-11-23,0,1715000,4.2,48.9
+C067984,35,Male, Chicago,"$250,000",Married,2,150000,Armlet,29-09-23,0,900000,5.9,64.49
+C068159,46,Female, Philadelphia,"$210,000",Married,3,96000,Earrings,13-09-23,0,1440000,5.3,58.67
+C068254,55,Female, Tampa,"$250,000",Single,3,21000,Locket,28-08-23,0,63000,5.5,63.98
+C068260,52,Male, Philadelphia,"$220,000",Single,4,188000,Armlet,17-12-23,0,1504000,5.1,56.48
+C068397,37,Female, San Diego,"$210,000",Married,2,2270,Pendant,26-11-23,0,22700,6.8,74.08
+C068495,51,Male, Phoenix,"$190,000",Single,4,43000,Locket,18-08-23,0,516000,4.9,57.5
+C068542,49,Male, Mesa,"$70,000",Married,1,6000,Jewel,17-03-23,0,12000,5.1,60.44
+C068595,25,Female, Milwaukee,"$170,000",Single,2,103000,Necklace,16-11-23,0,412000,6.4,70.11
+C068649,24,Female, San Antonio,"$300,000",Married,2,227000,Armlet,20-04-23,0,1816000,4.3,49.36
+C068865,54,Female, El Paso,"$140,000",Single,2,23000,Ring,07-07-23,0,138000,5.5,63.8
+C068872,21,Male, Oklahoma City,"$190,000",Single,4,40000,Bracelet,07-08-23,0,160000,4.5,55.9
+C068919,46,Male, Sacramento,"$80,000",Single,2,23000,Locket,17-12-23,0,230000,6.9,74.44
+C068920,23,Male, Portland,"$190,000",Single,3,26000,Bracelet,09-01-23,0,234000,5.5,63.59
+C069116,26,Male, Philadelphia,"$140,000",Married,2,49000,Locket,06-12-23,0,294000,5.2,61.12
+C069126,18,Female, Colorado Springs,"$90,000",Married,1,24000,Pendant,19-06-23,0,72000,5.8,66.36
+C069199,42,Female, Denver,"$240,000",Married,5,135000,Locket,23-06-23,0,3375000,3.3,36.79
+C069266,37,Male, Jacksonville,"$220,000",Married,2,40000,Earrings,17-09-23,0,160000,6.1,68.19
+C069432,40,Male, San Jose,"$100,000",Married,1,67000,Earrings,13-09-23,0,134000,6.5,71.47
+C069527,51,Female, Dallas,"$220,000",Married,3,24000,Ring,25-05-23,0,72000,4.7,57.5
+C069711,59,Female, Minneapolis,"$90,000",Single,1,27000,Pendant,28-03-23,0,81000,5.1,60.75
+C069726,38,Male, Sacramento,"$170,000",Married,1,34000,Armlet,19-06-23,0,102000,5.8,66.16
+C069847,59,Female, Fresno,"$140,000",Single,2,66000,Pendant,05-10-23,0,660000,4.9,57.5
+C069878,42,Male, Riverside,"$120,000",Single,3,50000,Earrings,07-06-23,0,450000,5,58.38
+C070099,23,Male, San Francisco,"$110,000",Married,2,48000,Earrings,19-12-23,0,192000,6.8,74.14
+C070127,46,Female, Albuquerque,"$110,000",Single,1,105000,Bracelet,26-05-23,0.03,210000,6.3,69.48
+C070252,27,Female, San Diego,"$280,000",Married,5,240000,Ring,04-01-23,0,3600000,1.9,24.91
+C070349,57,Male, Raleigh,"$180,000",Single,4,58000,Bracelet,05-09-23,0,232000,3.9,50.91
+C070494,44,Male, El Paso,"$220,000",Married,2,70000,Earrings,27-04-23,0,420000,4.8,57.23
+C070505,59,Male, Raleigh,"$60,000",Married,1,826,Necklace,24-04-23,0,1652,5.4,63.06
+C070518,57,Female, El Paso,"$280,000",Single,3,77000,Locket,21-05-23,0,231000,4.5,55.05
+C070541,60,Male, Milwaukee,"$270,000",Single,4,109000,Armlet,19-03-23,0,1308000,3.2,42.2
+C070559,39,Male, Oklahoma City,"$260,000",Single,5,50000,Bracelet,20-10-23,0,250000,4.9,58.3
+C070610,49,Female, Nashville,"$210,000",Single,5,9000,Earrings,09-06-23,0,180000,4.8,57.77
+C071257,19,Male, Riverside,"$80,000",Married,2,21000,Necklace,26-11-23,0.1,126000,9.2,93.38
+C071414,47,Male, Raleigh,"$80,000",Single,1,62000,Ring,13-08-23,0,186000,6.2,69.3
+C071440,24,Male, Seattle,"$130,000",Married,3,70000,Bracelet,20-07-23,0,630000,5,58.15
+C071554,42,Female, Columbus,"$180,000",Married,4,128000,Bracelet,25-04-23,0,2560000,3.5,40.27
+C071619,45,Female, San Diego,"$290,000",Married,7,25000,Pendant,06-07-23,0.08,175000,5,59.62
+C071664,33,Female, Las Vegas,"$90,000",Single,1,11000,Necklace,10-07-23,0,44000,6.8,73.94
+C071682,32,Female, Mesa,"$140,000",Married,3,44000,Ring,25-05-23,0,132000,4.6,56.68
+C071691,24,Female, El Paso,"$270,000",Single,2,92000,Pendant,09-06-23,0,920000,5.8,64.15
+C071705,57,Male, Tampa,"$290,000",Married,1,79000,Jewel,24-08-23,0,395000,6.3,69.25
+C071708,28,Male, Newark,"$160,000",Married,1,63000,Locket,21-11-23,0,315000,7.1,75.61
+C071817,44,Female, Los Angeles,"$140,000",Married,3,2000,Necklace,10-07-23,0.03,30000,6.7,73.36
+C071990,43,Male, San Francisco,"$80,000",Married,1,39000,Pendant,25-05-23,0,78000,5.6,64.51
+C072058,54,Male, Oklahoma City,"$50,000",Single,1,9000,Locket,13-12-23,0,9000,7.3,78.54
+C072113,35,Female, Albuquerque,"$280,000",Married,6,205000,Locket,12-11-23,0,6150000,3.6,30.94
+C072252,28,Female, Raleigh,"$300,000",Married,4,245000,Jewel,03-09-23,0,3920000,2.4,28.17
+C072529,58,Male, Colorado Springs,"$280,000",Married,3,66000,Jewel,05-06-23,0,990000,4.4,52.24
+C072600,59,Male, Columbus,"$220,000",Married,1,91000,Bracelet,30-10-23,0,364000,6.8,73.69
+C072621,42,Male, Cincinnati,"$250,000",Married,1,137000,Necklace,12-09-23,0.02,548000,7.6,79.34
+C072756,36,Male, Minneapolis,"$60,000",Married,1,57000,Jewel,13-03-23,0,171000,5,59.16
+C072795,57,Female, Newark,"$230,000",Single,5,133000,Necklace,12-02-23,0,1995000,4.7,51.68
+C072879,59,Male, Dallas,"$300,000",Married,1,182000,Armlet,21-07-23,0,728000,5.9,64.91
+C072921,49,Female, San Antonio,"$240,000",Single,3,84000,Necklace,22-11-23,0,1008000,6,64.98
+C073028,35,Female, Miami,"$260,000",Married,3,100000,Necklace,08-03-23,0,900000,5,57.34
+C073108,27,Male, Pittsburgh,"$180,000",Married,1,3093,Pendant,23-11-23,0.03,15465,7.9,83.25
+C073303,56,Female, Phoenix,"$290,000",Married,6,2717,Jewel,04-10-23,0,32604,3.2,45.2
+C073364,37,Female, Pittsburgh,"$240,000",Single,2,9000,Pendant,22-12-23,0,18000,7,75.68
+C073472,56,Male, San Antonio,"$210,000",Married,1,49000,Bracelet,30-11-23,0,196000,7.2,76.7
+C073508,34,Female, Albuquerque,"$200,000",Married,1,101000,Necklace,30-03-23,0,505000,5,58.87
+C073611,41,Male, Orlando,"$140,000",Single,2,93000,Armlet,11-01-23,0,186000,6.3,69.97
+C073622,37,Male, Seattle,"$290,000",Married,1,227000,Armlet,10-01-23,0,681000,6.4,69.37
+C073764,52,Male, Tampa,"$120,000",Married,1,68000,Ring,20-06-23,0,68000,5.8,65.96
+C073820,22,Male, Raleigh,"$50,000",Married,1,22000,Necklace,26-09-23,0,88000,6.7,72.95
+C073862,47,Male, Newark,"$70,000",Single,1,13000,Earrings,12-08-23,0,13000,7.3,78.15
+C073889,24,Male, Oklahoma City,"$260,000",Single,4,167000,Earrings,08-09-23,0,2672000,4.1,45.35
+C073945,26,Female, Raleigh,"$290,000",Married,6,91000,Bracelet,04-03-23,0.09,2184000,4.6,50.84
+C073948,35,Female, Houston,"$230,000",Married,2,76000,Locket,04-11-23,0.05,760000,5.9,65.05
+C073984,33,Male, Raleigh,"$100,000",Married,1,58000,Earrings,07-07-23,0,58000,5.9,67.23
+C074050,51,Male, Tucson,"$170,000",Single,3,2745,Necklace,31-05-23,0,41175,4.8,58.68
+C074062,46,Female, Virginia Beach,"$140,000",Single,1,92000,Ring,06-01-23,0,184000,5.6,64.1
+C074231,55,Male, Columbus,"$70,000",Single,1,9000,Pendant,21-12-23,0,45000,7.4,78.97
+C074239,60,Female, San Diego,"$50,000",Married,1,39000,Necklace,08-09-23,0.03,39000,7,75.7
+C074273,56,Male, Tampa,"$170,000",Married,1,96000,Pendant,06-05-23,0,384000,5.6,63.75
+C074308,35,Male, Riverside,"$120,000",Single,1,2277,Ring,06-10-23,0,6831,5.8,66.18
+C074320,30,Female, Orlando,"$290,000",Single,6,121000,Armlet,23-12-23,0.09,2904000,6.6,64.49
+C074447,35,Male, Detroit,"$180,000",Married,1,159000,Pendant,19-11-23,0,477000,6.9,73.97
+C074510,54,Male, Raleigh,"$220,000",Married,1,215000,Armlet,08-01-23,0,645000,5.9,65.53
+C074568,30,Male, Tulsa,"$250,000",Single,5,8000,Bracelet,07-01-23,0,40000,4.2,53.74
+C074582,52,Female, Philadelphia,"$60,000",Married,1,19000,Necklace,12-06-23,0,57000,7.2,77.83
+C074583,23,Male, Portland,"$140,000",Single,3,3861,Necklace,03-11-23,0,23166,4.2,53.28
+C074681,41,Male, San Antonio,"$290,000",Single,7,8000,Armlet,06-09-23,0,56000,3.2,45.39
+C074738,60,Male, Minneapolis,"$190,000",Married,3,61000,Armlet,29-12-23,0,366000,6.4,70.04
+C074997,54,Male, San Diego,"$150,000",Single,3,100000,Pendant,12-01-23,0,1200000,6,64.51
+C075098,21,Male, Columbus,"$60,000",Married,1,24000,Necklace,18-04-23,0,120000,5.3,62.07
+C075215,39,Male, Fresno,"$50,000",Married,1,3260,Jewel,22-08-23,0,13040,6.4,71.03
+C075248,44,Male, New York,"$140,000",Single,2,4272,Necklace,29-03-23,0.09,25632,7,75.84
+C075249,32,Female, Columbus,"$60,000",Married,1,14000,Necklace,09-05-23,0,70000,6.5,71.69
+C075585,40,Female, New York,"$200,000",Married,5,170000,Necklace,25-10-23,0,850000,4.1,50.42
+C075633,22,Female, Albuquerque,"$190,000",Single,4,44000,Bracelet,12-09-23,0,176000,5.8,65.99
+C075752,28,Female, San Antonio,"$260,000",Single,3,36000,Jewel,05-10-23,0,324000,4.5,55.38
+C075799,31,Male, Nashville,"$80,000",Single,2,33000,Necklace,16-07-23,0.08,198000,7.6,80.01
+C075813,59,Female, Houston,"$180,000",Single,2,96000,Pendant,12-04-23,0,960000,6.6,69.9
+C075857,58,Female, San Antonio,"$280,000",Married,4,223000,Pendant,21-04-23,0,892000,2.9,40.67
+C075866,47,Male, New York,"$110,000",Married,2,63000,Ring,22-12-23,0,252000,6.8,73.85
+C076171,45,Male, Denver,"$90,000",Single,1,21000,Necklace,07-12-23,0,105000,6,67.83
+C076248,32,Female, Denver,"$270,000",Married,3,350,Ring,22-11-23,0,1200,6.3,70.59
+C076266,42,Male, San Antonio,"$190,000",Single,2,91000,Necklace,12-09-23,0,182000,6.6,72.57
+C076337,50,Female, Mesa,"$130,000",Married,3,87000,Ring,06-10-23,0,1305000,4.6,52.99
+C076478,57,Female, Mesa,"$190,000",Single,1,118000,Locket,08-07-23,0,236000,6.1,68.15
+C076666,34,Female, Memphis,"$300,000",Married,4,21000,Bracelet,18-05-23,0,420000,4.2,52.57
+C076669,58,Female, Miami,"$160,000",Single,1,111000,Locket,09-08-23,0,555000,6.4,69.45
+C076847,25,Female, Mesa,"$200,000",Married,3,28000,Armlet,25-06-23,0,252000,5,58.93
+C076931,43,Male, Fresno,"$200,000",Married,1,25000,Ring,23-07-23,0.04,25000,7.1,76.75
+C076933,42,Female, Oklahoma City,"$200,000",Single,4,174000,Locket,13-06-23,0,3480000,3.6,38.92
+C077071,52,Male, Long Beach,"$170,000",Married,4,54000,Bracelet,19-11-23,0,432000,5.6,63.48
+C077116,35,Female, Minneapolis,"$80,000",Married,1,37000,Armlet,08-01-23,0,74000,6.2,69.09
+C077343,58,Male, Sacramento,"$110,000",Married,1,84000,Necklace,19-04-23,0,84000,5.2,61.59
+C077386,19,Female, Philadelphia,"$170,000",Married,4,115000,Ring,17-11-23,0,1840000,5.2,56.68
+C077425,53,Female, Sacramento,"$60,000",Single,1,41000,Earrings,17-03-23,0,123000,5,59.74
+C077677,33,Female, Tampa,"$130,000",Married,2,20000,Necklace,31-03-23,0,80000,4.7,57.48
+C077740,40,Male, Miami,"$80,000",Married,2,11000,Necklace,23-10-23,0,88000,6.5,71.43
+C077882,32,Male, Memphis,"$150,000",Married,2,7000,Necklace,24-08-23,0,56000,6,67.59
+C077905,41,Female, Phoenix,"$260,000",Single,1,28000,Earrings,08-03-23,0,140000,6.2,69.13
+C078173,47,Male, Orlando,"$160,000",Married,2,26000,Ring,11-01-23,0,208000,6.5,71.36
+C078319,54,Female, Charlotte,"$50,000",Single,1,10000,Jewel,13-07-23,0,30000,6,68.23
+C078351,35,Male, San Antonio,"$180,000",Single,3,125000,Jewel,27-05-23,0,1500000,4.3,50.26
+C078432,41,Male, Norfolk,"$110,000",Single,1,7000,Locket,04-10-23,0,7000,5.3,62.04
+C078505,44,Male, Wichita,"$140,000",Single,1,90000,Armlet,06-09-23,0.05,270000,6.9,74.41
+C078585,52,Female, Omaha,"$80,000",Married,2,1537,Locket,12-06-23,0,15370,6.9,74.78
+C078587,33,Male, Virginia Beach,"$50,000",Married,1,38000,Pendant,07-08-23,0,38000,6,67.57
+C078717,56,Female, Minneapolis,"$270,000",Single,6,500,Ring,25-04-23,0,3500,3.3,46.48
+C078912,42,Female, Chicago,"$120,000",Married,3,7000,Pendant,25-05-23,0,105000,4.8,57.96
+C079106,48,Male, New York,"$50,000",Married,1,32000,Pendant,08-10-23,0,96000,6.2,69.68
+C079191,27,Female, Austin,"$210,000",Married,2,87000,Locket,09-07-23,0,174000,5.9,66.46
+C079272,58,Female, Raleigh,"$130,000",Single,1,32000,Ring,03-10-23,0,96000,5,59.45
+C079441,31,Male, Cincinnati,"$100,000",Married,1,55000,Armlet,14-07-23,0,275000,6,67.11
+C079446,52,Female, Wichita,"$210,000",Single,1,39000,Earrings,13-05-23,0,117000,5.5,63.59
+C079611,57,Male, Long Beach,"$210,000",Single,1,1103,Jewel,18-10-23,0.05,3309,8.1,84.89
+C079620,44,Female, Detroit,"$300,000",Single,5,168000,Armlet,11-10-23,0.08,1680000,6.3,65.22
+C079660,54,Female, Austin,"$120,000",Married,3,97000,Jewel,12-07-23,0.1,873000,8.6,85.94
+C079770,28,Male, Houston,"$180,000",Single,1,115000,Jewel,15-11-23,0,575000,6.9,73.9
+C079869,26,Male, St Louis,"$70,000",Single,1,908,Pendant,08-11-23,0,1816,6.3,70.35
+C079924,42,Male, Philadelphia,"$220,000",Single,4,56000,Ring,13-09-23,0.07,448000,6.8,72.87
+C080006,23,Female, Memphis,"$70,000",Single,1,18000,Earrings,10-02-23,0,54000,6.7,73.5
+C080137,38,Male, Colorado Springs,"$140,000",Single,1,92000,Necklace,23-12-23,0,184000,7.3,77.81
+C080248,39,Female, Minneapolis,"$200,000",Single,3,41000,Necklace,09-11-23,0,246000,5.6,63.74
+C080263,49,Female, Milwaukee,"$220,000",Married,4,187000,Necklace,08-04-23,0,3740000,4,41.09
+C080335,32,Female, Greensboro,"$280,000",Single,1,145000,Ring,08-07-23,0,435000,6.1,67.29
+C080351,33,Female, Albuquerque,"$200,000",Single,4,185000,Earrings,07-11-23,0,1480000,3.8,46.05
+C080585,22,Female, Tampa,"$50,000",Married,1,4795,Locket,23-03-23,0,14385,5.1,60.84
+C080680,55,Male, Raleigh,"$210,000",Single,3,129000,Armlet,11-02-23,0,387000,5.6,63.96
+C080695,59,Female, Mesa,"$130,000",Married,2,45000,Ring,25-06-23,0,180000,5.4,62.4
+C080759,43,Male, Austin,"$300,000",Single,2,153000,Necklace,13-10-23,0,918000,6,65.31
+C080911,41,Male, Greensboro,"$100,000",Married,2,5000,Bracelet,27-12-23,0,50000,7,76.01
+C080924,55,Male, Fresno,"$230,000",Married,2,200000,Ring,26-07-23,0.01,400000,5.5,62.49
+C081078,29,Female, St Louis,"$110,000",Married,2,82000,Locket,23-11-23,0.04,164000,7.5,79.75
+C081119,46,Female, Minneapolis,"$130,000",Single,1,104000,Necklace,22-03-23,0,520000,5,58.25
+C081199,26,Female, Tampa,"$190,000",Married,3,123000,Locket,29-04-23,0,1476000,4.1,48.52
+C081447,32,Male, Denver,"$210,000",Married,3,142000,Ring,24-05-23,0,1278000,4.2,50.15
+C081589,48,Female, Philadelphia,"$160,000",Single,2,4610,Pendant,15-12-23,0,18440,6.9,75.31
+C081983,57,Female, Phoenix,"$240,000",Single,1,212000,Ring,20-10-23,0,212000,6.6,72.15
+C082119,47,Male, Kansas City,"$280,000",Single,3,190000,Earrings,15-12-23,0.07,1710000,7.5,75.06
+C082145,51,Female, San Jose,"$250,000",Single,6,30000,Armlet,19-08-23,0,900000,4,49.71
+C082195,54,Female, Fort Worth,"$110,000",Married,2,48000,Armlet,30-04-23,0,192000,4.9,58.56
+C082235,32,Female, San Jose,"$210,000",Married,2,49000,Necklace,06-12-23,0,392000,5.2,60.84
+C082368,55,Female, Charlotte,"$70,000",Married,1,38000,Jewel,07-08-23,0.08,152000,8,83.25
+C082652,45,Male, Phoenix,"$260,000",Married,1,152000,Locket,13-04-23,0,760000,5.1,58.52
+C082684,53,Male, Sacramento,"$280,000",Single,6,125000,Necklace,04-06-23,0,2250000,2.1,30.65
+C082692,38,Male, Fresno,"$280,000",Single,5,91000,Armlet,12-09-23,0,1820000,5,54.93
+C082769,60,Female, Las Vegas,"$160,000",Married,1,159000,Bracelet,07-08-23,0,159000,5.8,65.92
+C082857,27,Male, Long Beach,"$290,000",Single,1,67000,Ring,08-02-23,0,268000,6.1,68.27
+C082868,34,Female, Greensboro,"$280,000",Single,5,184000,Jewel,05-04-23,0,3680000,2.6,29.92
+C082910,60,Male, Oklahoma City,"$270,000",Single,6,256000,Necklace,13-04-23,0,3072000,1.1,20.25
+C083172,32,Female, Detroit,"$130,000",Married,3,69000,Pendant,24-08-23,0,207000,5.3,61.74
+C083203,48,Female, Norfolk,"$220,000",Married,2,159000,Necklace,20-03-23,0,954000,4.2,51.23
+C083335,34,Female, Long Beach,"$210,000",Married,2,85000,Necklace,24-07-23,0,850000,5.5,61.56
+C083507,26,Male, Tulsa,"$290,000",Married,7,183000,Ring,17-06-23,0,6405000,1.6,14.48
+C083568,28,Male, Tampa,"$90,000",Married,2,3000,Jewel,10-05-23,0.07,30000,8.1,84.56
+C083670,27,Male, Atlanta,"$230,000",Single,3,80000,Locket,05-03-23,0,720000,4.3,52.35
+C083859,18,Male, Tucson,"$100,000",Married,2,34000,Ring,17-06-23,0.1,136000,7.8,82.23
+C083861,59,Female, Newark,"$110,000",Single,2,67000,Bracelet,06-12-23,0,402000,5.2,60.42
+C083877,19,Male, Tucson,"$160,000",Married,3,17000,Jewel,23-09-23,0,153000,5.8,65.59
+C084165,60,Male, Indianapolis,"$290,000",Married,6,238000,Jewel,17-03-23,0,1428000,1.1,24.32
+C084190,52,Female, Mesa,"$280,000",Single,1,61000,Jewel,14-10-23,0,183000,6.7,73.46
+C084228,44,Male, Houston,"$270,000",Single,6,211000,Armlet,03-09-23,0.05,1266000,2.5,36.01
+C084302,53,Female, Portland,"$140,000",Single,3,36000,Jewel,13-04-23,0,432000,4.3,53.27
+C084379,42,Male, Riverside,"$130,000",Single,2,32000,Pendant,28-06-23,0,256000,5.4,62.67
+C084491,54,Male, Tucson,"$230,000",Single,2,135000,Necklace,08-08-23,0,810000,5.5,61.59
+C084549,38,Male, Charlotte,"$120,000",Single,1,97000,Jewel,21-11-23,0,194000,7,75.59
+C084681,30,Male, Philadelphia,"$170,000",Single,4,111000,Ring,11-06-23,0,888000,5.2,58.84
+C084964,26,Female, Fort Worth,"$140,000",Married,1,82000,Bracelet,23-07-23,0.03,328000,6.8,73.27
+C085024,18,Male, Orlando,"$70,000",Single,1,33000,Bracelet,08-07-23,0,165000,6.2,69.27
+C085471,18,Male, Louisville,"$190,000",Married,2,79000,Armlet,13-11-23,0.04,316000,7.5,78.71
+C085477,18,Female, Los Angeles,"$200,000",Single,2,16000,Armlet,23-10-23,0,32000,6.4,71.48
+C085555,30,Male, Long Beach,"$280,000",Single,6,108000,Pendant,24-09-23,0,2592000,3.7,42.21
+C085585,34,Female, Oklahoma City,"$300,000",Single,7,221000,Jewel,26-05-23,0,4641000,1.1,15.18
+C085594,44,Male, Omaha,"$200,000",Single,5,186000,Locket,25-06-23,0.06,4650000,4.5,42.51
+C085835,50,Male, Dallas,"$160,000",Married,2,64000,Armlet,10-11-23,0.02,512000,6.7,72.26
+C085841,43,Female, Wichita,"$260,000",Married,3,101000,Necklace,07-07-23,0,1515000,4.8,53.74
+C086051,58,Male, San Antonio,"$160,000",Married,3,49000,Locket,13-03-23,0,147000,4,51.59
+C086119,32,Male, Jacksonville,"$210,000",Married,5,42000,Earrings,27-04-23,0,1050000,3.5,44.66
+C086157,29,Male, Fresno,"$240,000",Single,5,146000,Locket,20-08-23,0,730000,3.7,47.65
+C086229,42,Male, Philadelphia,"$190,000",Married,2,43000,Pendant,04-02-23,0.01,172000,4.9,58.85
+C086570,19,Female, Tampa,"$90,000",Married,2,3071,Earrings,22-09-23,0,30710,6.2,69.69
+C086587,47,Female, Milwaukee,"$170,000",Married,3,65000,Locket,08-04-23,0,390000,5.1,60.01
+C086590,42,Male, Fresno,"$110,000",Single,2,40000,Necklace,06-04-23,0,160000,5.2,61.16
+C086644,60,Male, San Francisco,"$60,000",Single,1,4491,Necklace,08-09-23,0,17964,6.3,70.13
+C086707,28,Male, Tampa,"$80,000",Married,2,42000,Jewel,08-08-23,0,420000,5.7,64.72
+C086726,41,Female, Cincinnati,"$210,000",Single,3,101000,Pendant,10-06-23,0,303000,5.5,63.3
+C086892,55,Female, New York,"$120,000",Married,1,107000,Necklace,18-03-23,0.05,214000,6.2,68.83
+C086998,24,Female, Portland,"$60,000",Married,1,29000,Earrings,23-09-23,0,145000,6.6,72.52
+C087032,36,Male, San Diego,"$200,000",Married,3,188000,Jewel,11-10-23,0,2256000,5.5,57.22
+C087094,37,Male, New York,"$300,000",Married,1,236000,Armlet,23-11-23,0.05,708000,8.1,82.74
+C087104,18,Female, Kansas City,"$120,000",Single,1,66000,Pendant,06-11-23,0.08,330000,7.7,80.63
+C087219,30,Female, Boston,"$300,000",Single,5,26000,Pendant,19-09-23,0,650000,4.8,56.37
+C087327,20,Male, Fresno,"$120,000",Single,2,1593,Pendant,22-12-23,0,15930,7,75.85
+C087493,34,Female, Greensboro,"$140,000",Married,1,7000,Jewel,22-04-23,0,14000,5.4,62.83
+C087532,29,Female, Phoenix,"$60,000",Single,1,32000,Pendant,30-04-23,0,160000,5.4,62.67
+C087635,48,Male, Oklahoma City,"$230,000",Single,2,23000,Ring,22-09-23,0.05,138000,7.4,78.95
+C087668,26,Female, Tulsa,"$130,000",Married,2,1190,Armlet,25-08-23,0,7140,6,67.92
+C087892,21,Male, Kansas City,"$100,000",Married,1,64000,Armlet,08-06-23,0.02,64000,6.7,73.16
+C087951,21,Male, Omaha,"$300,000",Married,4,213000,Armlet,12-04-23,0,852000,4.9,56.4
+C088051,18,Female, Tulsa,"$140,000",Single,3,2242,Earrings,10-09-23,0,6726,5.9,67.56
+C088092,29,Male, Seattle,"$300,000",Single,4,267000,Earrings,13-11-23,0,3204000,4.4,45.92
+C088627,25,Female, San Antonio,"$120,000",Single,1,56000,Locket,15-08-23,0,56000,6.3,69.87
+C088741,58,Female, Wichita,"$300,000",Single,3,89000,Pendant,12-05-23,0.02,801000,6.6,70.28
+C088895,22,Male, Fresno,"$210,000",Single,5,187000,Necklace,10-10-23,0.07,2805000,5.6,56.9
+C088944,41,Male, Atlanta,"$280,000",Single,5,37000,Earrings,15-03-23,0,555000,3.1,43.48
+C088948,52,Female, Virginia Beach,"$250,000",Single,4,210000,Locket,23-08-23,0,840000,4,49.67
+C089160,33,Male, Charlotte,"$130,000",Married,1,112000,Necklace,07-08-23,0,224000,5.9,66.24
+C089308,37,Male, San Antonio,"$160,000",Married,2,138000,Necklace,16-12-23,0,828000,6.6,70.17
+C089743,53,Female, Greensboro,"$270,000",Single,6,144000,Jewel,06-01-23,0,1728000,2.5,34.65
+C089791,20,Male, Cincinnati,"$250,000",Single,1,67000,Locket,14-09-23,0,134000,6.5,71.53
+C089820,33,Male, Philadelphia,"$140,000",Married,2,1087,Bracelet,10-01-23,0,4348,6.3,70.41
+C089908,25,Male, Miami,"$120,000",Single,1,93000,Armlet,10-03-23,0,465000,6.6,71.57
+C089910,34,Male, Columbus,"$110,000",Single,2,98000,Bracelet,17-04-23,0,392000,4.6,56.03
+C089946,26,Female, Boston,"$280,000",Single,7,146000,Pendant,27-04-23,0,2044000,1.5,26.36
+C090136,44,Male, Mesa,"$240,000",Single,1,136000,Ring,29-12-23,0,136000,7.3,77.87
+C090566,53,Female, Philadelphia,"$180,000",Married,2,1000,Jewel,28-11-23,0,4000,6.8,74.29
+C090575,52,Female, Kansas City,"$180,000",Single,4,23000,Necklace,17-04-23,0,92000,4,51.35
+C090716,46,Male, Dallas,"$300,000",Single,1,53000,Armlet,05-11-23,0,212000,5.5,63.03
+C090821,27,Male, Tampa,"$130,000",Single,1,129000,Ring,14-08-23,0,258000,6.1,68.43
+C091034,28,Male, Indianapolis,"$120,000",Single,1,6000,Pendant,15-09-23,0,6000,6.6,72.63
+C091104,20,Male, Los Angeles,"$280,000",Married,6,4248,Earrings,18-08-23,0,76464,4.2,53.67
+C091299,32,Female, Colorado Springs,"$270,000",Single,2,257000,Pendant,07-08-23,0,2056000,4.9,53.31
+C091398,21,Female, Nashville,"$80,000",Married,1,53000,Necklace,30-12-23,0,159000,7.4,78.77
+C091538,30,Female, Austin,"$70,000",Single,1,17000,Jewel,01-02-24,0,17000,7.5,79.77
+C091642,48,Male, Fresno,"$290,000",Married,3,248000,Armlet,13-12-23,0,2232000,5.5,57.55
+C091720,19,Female, Indianapolis,"$170,000",Single,4,46000,Earrings,19-07-23,0.1,736000,7.1,74.73
+C091998,18,Female, San Antonio,"$140,000",Married,2,55000,Necklace,15-09-23,0,550000,6,66.61
+C092015,18,Female, Raleigh,"$140,000",Married,2,36000,Pendant,04-03-23,0,288000,4.7,56.73
+C092228,47,Female, Greensboro,"$50,000",Single,1,1262,Armlet,18-06-23,0,5048,5.8,66.73
+C092368,43,Female, Memphis,"$160,000",Single,1,156000,Locket,17-10-23,0.05,624000,7.9,81.37
+C092407,60,Female, Seattle,"$50,000",Single,1,3730,Necklace,12-02-23,0,11190,7.2,77.85
+C092610,35,Male, Orlando,"$220,000",Married,1,217000,Ring,18-11-23,0,1085000,6.8,71.53
+C092698,19,Female, Raleigh,"$170,000",Single,3,76000,Jewel,13-06-23,0,1140000,4.7,54.02
+C092723,28,Male, Denver,"$120,000",Married,2,65000,Necklace,06-04-23,0,650000,5.1,59.22
+C092778,23,Female, San Diego,"$100,000",Married,2,82000,Armlet,29-07-23,0,492000,5.5,62.98
+C092799,21,Male, Virginia Beach,"$150,000",Married,3,65000,Necklace,05-01-23,0,390000,4.3,53.65
+C093007,57,Male, Milwaukee,"$250,000",Married,4,200000,Necklace,18-09-23,0,800000,4.3,51.96
+C093046,38,Male, Omaha,"$120,000",Single,1,101000,Earrings,22-05-23,0,101000,5.5,63.57
+C093170,44,Female, Atlanta,"$190,000",Single,1,187000,Pendant,15-11-23,0,748000,6.8,72.62
+C093194,41,Male, Fort Worth,"$150,000",Married,1,33000,Earrings,12-01-23,0,99000,7.2,77.22
+C093243,31,Female, Los Angeles,"$120,000",Married,1,110000,Pendant,11-07-23,0,110000,6.9,74.75
+C093347,57,Male, Sacramento,"$110,000",Married,1,60000,Necklace,06-08-23,0,180000,5.7,64.92
+C093394,58,Male, Nashville,"$60,000",Single,1,3896,Ring,11-03-23,0,19480,7,75.89
+C093435,46,Female, Seattle,"$270,000",Single,1,212000,Bracelet,08-09-23,0,424000,6,66.73
+C093438,45,Male, Greensboro,"$130,000",Single,3,98000,Jewel,09-04-23,0,588000,5.3,60.44
+C093637,32,Male, San Antonio,"$100,000",Single,2,44000,Jewel,20-08-23,0.1,440000,8.3,85.42
+C093660,30,Male, Boston,"$270,000",Single,2,60000,Necklace,28-11-23,0,240000,6.6,72.34
+C093724,26,Male, Austin,"$300,000",Single,5,37000,Bracelet,12-04-23,0,370000,5.3,61.67
+C093774,35,Male, Chicago,"$140,000",Single,2,47000,Necklace,23-09-23,0,376000,6.1,67.82
+C093869,38,Male, Miami,"$100,000",Single,1,3000,Earrings,17-08-23,0,3000,6.3,70.73
+C093941,35,Male, Riverside,"$90,000",Single,1,50000,Locket,12-06-23,0,200000,7.2,77.08
+C093946,56,Male, Riverside,"$150,000",Married,2,39000,Pendant,26-05-23,0,78000,5.1,60.82
+C094073,59,Female, Boston,"$260,000",Married,5,2894,Armlet,05-09-23,0.07,72350,5.6,64.38
+C094086,40,Male, Riverside,"$290,000",Married,2,227000,Necklace,25-10-23,0,1362000,5.9,63.24
+C094261,37,Female, Nashville,"$220,000",Single,2,8000,Ring,17-03-23,0,16000,4.6,56.98
+C094344,45,Male, Newark,"$250,000",Married,3,100000,Pendant,22-08-23,0,1500000,5.1,56.89
+C094467,18,Female, Minneapolis,"$250,000",Single,6,1234,Pendant,03-10-23,0,7404,2.9,43.3
+C094505,20,Male, Greensboro,"$160,000",Single,1,59000,Necklace,10-11-23,0,236000,6.7,73.13
+C094509,30,Female, San Antonio,"$290,000",Single,5,164000,Necklace,24-12-23,0,4100000,4.6,45.45
+C094579,40,Male, Portland,"$230,000",Single,5,141000,Jewel,06-12-23,0,1410000,3.2,41.35
+C094590,42,Female, Fort Worth,"$220,000",Single,4,212000,Necklace,30-08-23,0,1696000,4.1,47.6
+C094759,32,Female, Indianapolis,"$140,000",Married,3,81000,Bracelet,14-06-23,0,972000,4.6,54.41
+C094936,44,Male, Seattle,"$220,000",Single,1,1600,Necklace,28-09-23,0,8000,6.7,73.54
+C095065,31,Female, Virginia Beach,"$170,000",Married,4,11000,Jewel,26-08-23,0,88000,5.1,60.64
+C095100,38,Female, Indianapolis,"$110,000",Single,2,82000,Necklace,09-06-23,0,328000,5.9,66.06
+C095126,33,Male, Jacksonville,"$110,000",Single,1,4637,Bracelet,14-08-23,0,23185,6.3,70.45
+C095220,59,Female, Nashville,"$210,000",Single,3,113000,Bracelet,27-11-23,0,1695000,5.9,62.4
+C095229,57,Female, Wichita,"$80,000",Single,2,45000,Necklace,09-01-23,0,180000,5.9,66.95
+C095258,33,Male, New York,"$180,000",Married,1,139000,Necklace,10-05-23,0,139000,6.6,72.14
+C095303,30,Male, Chicago,"$130,000",Married,2,26000,Jewel,09-06-23,0,208000,6,67.62
+C095536,59,Male, Orlando,"$210,000",Single,1,206000,Ring,01-01-24,0,412000,7.2,76.52
+C095605,60,Male, Nashville,"$140,000",Single,2,80000,Armlet,12-11-23,0,160000,6.7,73.01
+C095671,56,Male, San Francisco,"$140,000",Married,2,58000,Bracelet,03-12-23,0,232000,4.5,54.95
+C095674,60,Female, San Francisco,"$260,000",Single,4,88000,Necklace,01-02-24,0,1760000,5.8,61.15
+C095759,25,Male, Tampa,"$280,000",Married,1,145000,Armlet,12-08-23,0,580000,7.1,75.1
+C096047,41,Male, Boston,"$110,000",Married,1,58000,Bracelet,27-07-23,0.03,116000,6.8,74.4
+C096053,38,Male, Colorado Springs,"$60,000",Single,1,4000,Armlet,25-10-23,0.09,16000,9.2,93.3
+C096352,42,Male, Los Angeles,"$250,000",Married,3,168000,Jewel,25-09-23,0.08,2016000,7.2,71.48
+C096392,53,Male, Omaha,"$120,000",Married,2,91000,Jewel,29-07-23,0,728000,5.5,62.11
+C096519,31,Female, Orlando,"$150,000",Married,2,88000,Ring,13-08-23,0,352000,5.7,64.26
+C096532,53,Female, San Antonio,"$280,000",Single,3,161000,Armlet,10-05-23,0,2415000,5.3,55.24
+C096636,23,Male, Raleigh,"$300,000",Married,1,107000,Locket,20-11-23,0,535000,7,74.43
+C096656,41,Female, Colorado Springs,"$130,000",Married,2,83000,Bracelet,17-06-23,0,332000,5.2,60.61
+C096764,46,Male, Minneapolis,"$90,000",Single,2,69000,Earrings,23-10-23,0,414000,6.3,69.24
+C096792,28,Female, Philadelphia,"$130,000",Single,3,94000,Earrings,06-04-23,0,1128000,4.5,52.87
+C096817,42,Male, Nashville,"$50,000",Married,1,15000,Locket,31-08-23,0,45000,6.4,71.41
+C096819,37,Male, San Antonio,"$300,000",Single,4,2138,Armlet,27-12-23,0.03,42760,6.9,75.38
+C097031,52,Female, Detroit,"$270,000",Single,4,128000,Ring,17-04-23,0,1536000,3.4,42.67
+C097228,46,Male, San Antonio,"$180,000",Single,2,81000,Locket,26-07-23,0,162000,5.5,63.75
+C097244,20,Female, San Diego,"$140,000",Single,2,31000,Armlet,16-03-23,0,124000,4.6,56.11
+C097488,37,Male, Seattle,"$100,000",Married,1,71000,Necklace,08-04-23,0,284000,6.1,68.32
+C097520,57,Female, Memphis,"$80,000",Married,2,68000,Jewel,20-11-23,0.03,136000,7.3,77.93
+C097542,54,Male, Seattle,"$90,000",Married,1,69000,Ring,11-09-23,0,138000,7,75.25
+C097708,41,Female, Philadelphia,"$70,000",Married,1,33000,Armlet,05-04-23,0.04,165000,6.4,70.92
+C097769,38,Female, San Francisco,"$200,000",Single,4,116000,Jewel,18-08-23,0,2320000,4.5,49.17
+C097899,53,Male, Philadelphia,"$230,000",Married,3,121000,Ring,27-06-23,0,363000,4.6,55.72
+C098059,19,Male, Austin,"$280,000",Married,6,133000,Pendant,14-08-23,0,3192000,3.2,36.12
+C098081,18,Female, Omaha,"$300,000",Married,3,1649,Pendant,10-04-23,0,4947,5.9,67.25
+C098215,29,Male, El Paso,"$100,000",Single,2,38000,Ring,21-06-23,0,152000,5.4,62.37
+C098281,45,Female, Greensboro,"$70,000",Married,1,1000,Armlet,12-04-23,0,1000,7.3,78.05
+C098445,30,Female, Indianapolis,"$280,000",Married,2,118000,Earrings,07-06-23,0.06,472000,6.8,72.72
+C098521,20,Male, St Louis,"$200,000",Single,3,166000,Jewel,17-09-23,0,1992000,5.1,55.08
+C098560,32,Female, Fresno,"$200,000",Single,2,2884,Necklace,09-06-23,0,28840,6.1,68.63
+C098670,24,Male, Indianapolis,"$180,000",Married,4,70000,Ring,28-04-23,0.1,1400000,6.3,66.31
+C098732,35,Female, Nashville,"$100,000",Single,1,2142,Bracelet,25-07-23,0,4284,6.2,69.2
+C098921,31,Male, Sacramento,"$230,000",Single,4,22000,Pendant,04-12-23,0,440000,3.9,50.06
+C098965,22,Male, Mesa,"$110,000",Married,2,16000,Earrings,20-07-23,0.03,128000,6.4,70.85
+C099043,54,Male, Fresno,"$100,000",Married,2,870,Armlet,10-06-23,0,1740,6.3,70.76
+C099061,38,Female, San Antonio,"$220,000",Single,3,174000,Earrings,06-06-23,0,1044000,4.2,50.65
+C099113,45,Male, Tampa,"$250,000",Married,4,46000,Ring,26-08-23,0,368000,4.9,58.33
+C099136,59,Male, St Louis,"$290,000",Married,3,21000,Locket,04-02-23,0,252000,4.3,53.54
+C099198,55,Female, Kansas City,"$90,000",Single,1,47000,Earrings,04-11-23,0,235000,5.2,61.03
+C099201,21,Female, Virginia Beach,"$110,000",Married,1,64000,Pendant,14-03-23,0.02,256000,5.5,62.91
+C099249,50,Female, San Antonio,"$70,000",Single,1,53000,Necklace,07-09-23,0.07,265000,7.7,80.83
+C099317,48,Male, Boston,"$180,000",Single,1,81000,Bracelet,19-12-23,0,243000,7.3,77.49
+C099470,18,Female, Charlotte,"$280,000",Married,3,75000,Bracelet,26-09-23,0.09,675000,7.8,80.41
+C099588,57,Female, Detroit,"$280,000",Single,2,56000,Ring,22-09-23,0.01,560000,6.3,69.03
+C099653,39,Male, Memphis,"$70,000",Married,1,64000,Jewel,08-12-23,0,256000,6.2,69.01
+C099656,59,Male, Austin,"$180,000",Married,4,1221,Armlet,12-09-23,0,24420,6,68.27
+C099681,35,Male, Oklahoma City,"$210,000",Single,3,205000,Bracelet,13-10-23,0,615000,5.2,59.5
+C099959,35,Male, Riverside,"$190,000",Single,4,58000,Locket,14-12-23,0.03,1160000,6.5,68.9
+C099998,21,Male, Fresno,"$130,000",Married,2,43000,Armlet,11-04-23,0.08,430000,8.5,86.56
